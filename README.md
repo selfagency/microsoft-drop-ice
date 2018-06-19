@@ -16,5 +16,6 @@ Signed,
 -  Gavin Morgan [@quavmo](https://github.com/quavmo)
 -  Abram Stern [@aphid](https://github.com/aphid)
 -  Libby Horacek [@emhoracek](https://github.com/emhoracek)
+-  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
