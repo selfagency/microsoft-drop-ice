@@ -16,6 +16,7 @@ Signed,
 -  Gavin Morgan [@quavmo](https://github.com/quavmo)
 -  Abram Stern [@aphid](https://github.com/aphid)
 -  Libby Horacek [@emhoracek](https://github.com/emhoracek)
+-  Rick Waldron [@rwaldron](https://github.com/rwaldron)
 -  Joshua Cook [@joshuacook](https://github.com/joshuacook)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
