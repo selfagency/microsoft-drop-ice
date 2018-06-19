@@ -12,6 +12,7 @@ We call on Microsoft to end is relationship with ICE and any federal agencies en
 Signed,
 
 Daniel Sieradski [@selfagency](https://github.com/selfagency)
+
 Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
