@@ -53,6 +53,7 @@ Signed,
 -  Aaron Lichtman [@alichtman](https://github.com/alichtman)
 -  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 -  Jason Palmer [@palmerj3](https://github.com/palmerj3)
+-  Danilo Guanabara [@danguafer](https://github.com/danguafer)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
