@@ -9,29 +9,19 @@ With Microsoft's acquisition of Github, many in the Github community were fearfu
 
 We call on Microsoft to end is relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
 
-Signed,
+[View signatures](https://selfagency.github.com/microsoft-drop-ice/).
 
--  Daniel Sieradski [@selfagency](https://github.com/selfagency)
--  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
--  Gavin Morgan [@quavmo](https://github.com/quavmo)
--  Abram Stern [@aphid](https://github.com/aphid)
--  Libby Horacek [@emhoracek](https://github.com/emhoracek)
--  Jeremy Low [@jeremylow](https://github.com/jeremylow)
--  Rick Waldron [@rwaldron](https://github.com/rwaldron)
--  Jacob Beard [@jbeard4](https://github.com/jbeard4)
--  Joshua Cook [@joshuacook](https://github.com/joshuacook)
--  Lea Verou [@leaverou](https://github.com/leaverou)
--  Tomas Lycken [@tlycken](https://github.com/tlycken) 
--  Tobi Schäfer [@p3k](https://github.com/p3k)
--  Mijndert Stuij [@mijndert](https://github.com/mijndert) 
--  John Hann [@unscriptable](https://github.com/unscriptable)
--  Thijs van der Vossen [@fingertips](https://github.com/Fingertips)
--  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
--  Thomas Fuchs [@madrobby](https://github.com/madrobby)
--  Frank Bültge [@bueltge](https://github.com/bueltge)
--  Laurie Voss [@seldo](https://github.com/seldo)
--  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
--  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
--  vøid [@makmm](https://github.com/makmm)
+**To add your name please submit a PR:**
 
-**To add your name or recommend alterations to this text, please submit a PR!**
+1. [Create a new file in the _signatures directory](https://github.com/selfagency/microsoft-drop-ice/new/master/_signatures).
+3. Name the file something unique, for example: first_name_last_name_.md. (Don't forget the .md.)
+4. Use the template below to add your signature. Notice there is no "@" sign before the account.
+    ```
+    ---
+      name: Your name
+      github_account: youraccount
+    ---
+    ```
+5. Make a commit and pull request! A volunteer will merge it in.
+
+**To recommend alterations to this text, please submit a PR**
