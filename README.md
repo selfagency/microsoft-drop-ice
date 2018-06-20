@@ -28,5 +28,6 @@ Signed,
 -  Thijs van der Vossen [@fingertips](https://github.com/Fingertips)
 -  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
 -  Thomas Fuchs [@madrobby](https://github.com/madrobby)
+-  Frank Bültge [@bueltge](https://github.com/bueltge)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
