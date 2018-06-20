@@ -40,6 +40,7 @@ Signed,
 -  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 -  Eric Sandoval [@emsando](https://github.com/emsando)
 -  David Seidenberg [@davidseid](https://github.com/davidseid)
+-  Jon Kuperman [@jkup](https://github.com/jkup)
 -  Elin Angelov [@zetxx](https://github.com/zetxx)
 -  Titus Wormer [@wooorm](https://github.com/wooorm)
 
