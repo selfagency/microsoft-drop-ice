@@ -43,6 +43,7 @@ Signed,
 -  Jon Kuperman [@jkup](https://github.com/jkup)
 -  Elin Angelov [@zetxx](https://github.com/zetxx)
 -  Titus Wormer [@wooorm](https://github.com/wooorm)
+-  Mikkel Malmberg [@mikker](https://github.com/mikker)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
