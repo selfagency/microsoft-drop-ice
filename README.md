@@ -29,5 +29,6 @@ Signed,
 -  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
 -  Thomas Fuchs [@madrobby](https://github.com/madrobby)
 -  Frank Bültge [@bueltge](https://github.com/bueltge)
+-  Laurie Voss [@seldo](https://github.com/seldo)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
