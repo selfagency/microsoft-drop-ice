@@ -50,6 +50,7 @@ Signed,
 -  Valentin Iovene [@tgy](https://github.com/tgy)
 -  Jordan Danford [@jdanford](https://github.com/jdanford)
 -  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
+-  Aaron Lichtman [@alictman](https://github.com/alichtman)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
