@@ -17,6 +17,7 @@ Signed,
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
 -  Orta Therox [@orta](https://github.com/orta) (Artsy, CocoaPods, Danger)
 -  Rick Waldron [@rwaldron](https://github.com/rwaldron) (Ecma/TC39, Johnny-Five, Bocoup)
+-  Anna Henningsen [@addaleax](https://github.com/addaleax)
 -  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 -  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 -  Gavin Morgan [@quavmo](https://github.com/quavmo)
