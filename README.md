@@ -33,5 +33,6 @@ Signed,
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
 -  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
 -  vøid [@makmm](https://github.com/makmm)
+-  Igor Buyanov [@artifex404](https://github.com/artifex404)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
