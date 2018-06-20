@@ -12,11 +12,13 @@ We call on Microsoft to end is relationship with ICE and any federal agencies en
 Signed,
 
 -  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, W3C CSS Working Group, Prism, Mavo, Dabblet)
+-  Sindre Sorhus [@sindresorhus](https://github.com/sindresorhus)
 -  Thomas Fuchs [@madrobby](https://github.com/madrobby) (Zepto, Script.aculo.us, Ruby on Rails)
 -  Laurie Voss [@seldo](https://github.com/seldo) (LGBTQ.technology)
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
 -  Orta Therox [@orta](https://github.com/orta) (Artsy, CocoaPods, Danger)
 -  Rick Waldron [@rwaldron](https://github.com/rwaldron) (Ecma/TC39, Johnny-Five, Bocoup)
+-  Anna Henningsen [@addaleax](https://github.com/addaleax)
 -  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 -  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 -  Gavin Morgan [@quavmo](https://github.com/quavmo)
@@ -39,6 +41,7 @@ Signed,
 -  Eric Sandoval [@emsando](https://github.com/emsando)
 -  David Seidenberg [@davidseid](https://github.com/davidseid)
 -  Elin Angelov [@zetxx](https://github.com/zetxx)
+-  Titus Wormer [@wooorm](https://github.com/wooorm)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
