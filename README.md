@@ -17,6 +17,7 @@ Signed,
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
 -  Orta Therox [@orta](https://github.com/orta) (Artsy, CocoaPods, Danger)
 -  Rick Waldron [@rwaldron](https://github.com/rwaldron) (Ecma/TC39, Johnny-Five, Bocoup)
+-  Anna Henningsen [@addaleax](https://github.com/addaleax)
 -  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 -  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 -  Gavin Morgan [@quavmo](https://github.com/quavmo)
@@ -38,7 +39,7 @@ Signed,
 -  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 -  Eric Sandoval [@emsando](https://github.com/emsando)
 -  David Seidenberg [@davidseid](https://github.com/davidseid)
--  Anna Henningsen [@addaleax](https://github.com/addaleax)
+
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
