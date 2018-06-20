@@ -21,7 +21,8 @@ Signed,
 -  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 -  Joshua Cook [@joshuacook](https://github.com/joshuacook)
 -  Lea Verou [@leaverou](https://github.com/leaverou)
--  Tomas Lycken [@tlycken](https://github.com/tlycken)
+-  Tomas Lycken [@tlycken](https://github.com/tlycken) 
+-  Tobi Schäfer [@p3k](https://github.com/p3k)
 -  Mijndert Stuij [@mijndert](https://github.com/mijndert) 
 
 **To add your name or recommend alterations to this text, please submit a PR!**
