@@ -30,5 +30,6 @@ Signed,
 -  Thomas Fuchs [@madrobby](https://github.com/madrobby)
 -  Frank Bültge [@bueltge](https://github.com/bueltge)
 -  Laurie Voss [@seldo](https://github.com/seldo)
+-  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
