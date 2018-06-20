@@ -15,7 +15,7 @@ Signed,
 -  Thomas Fuchs [@madrobby](https://github.com/madrobby) (Zepto, Script.aculo.us, Ruby on Rails)
 -  Laurie Voss [@seldo](https://github.com/seldo) (LGBTQ.technology)
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
--  Orta Therox [@orta](https://github.com/orta)
+-  Orta Therox [@orta](https://github.com/orta) (Artsy, CocoaPods, Danger)
 -  Rick Waldron [@rwaldron](https://github.com/rwaldron) (Ecma/TC39, Johnny-Five, Bocoup)
 -  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 -  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
