@@ -44,6 +44,7 @@ Signed,
 -  Elin Angelov [@zetxx](https://github.com/zetxx)
 -  Titus Wormer [@wooorm](https://github.com/wooorm)
 -  Mikkel Malmberg [@mikker](https://github.com/mikker)
+-  Murilo Prestes [@maclovin](https://github.com/maclovin)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
