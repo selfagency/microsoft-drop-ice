@@ -7,7 +7,7 @@ As members of the open source community and free software movement who embrace v
 
 With Microsoft's acquisition of GitHub, many in the GitHub community were fearful of what new ownership from a company once openly hostile to open source would spell for the future of GitHub, and many of those people chose to leave the site rather than entrust Microsoft with their software. Those of us who remained, because we were willing to give Microsoft a chance to become a steward of the open source movement, will not continue to do so should Microsoft continue to abet the trampling of human and civil rights by this administration and its law enforcement agencies.
 
-We call on Microsoft to end is relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
+We call on Microsoft to end its relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
 
 Signed,
 
@@ -54,6 +54,9 @@ Signed,
 -  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 -  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 -  Danilo Guanabara [@danguafer](https://github.com/danguafer)
+-  Alex Rapley [@arapl3y](https://github.com/arapl3y)
+-  Shealan Forshaw [@shealan](https://github.com/shealan)
+-  Sam Lloyd [@binchicken](https://github.com/binchicken)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
