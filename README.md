@@ -45,6 +45,7 @@ Signed,
 -  Titus Wormer [@wooorm](https://github.com/wooorm)
 -  Mikkel Malmberg [@mikker](https://github.com/mikker)
 -  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
+-  Murilo Prestes [@maclovin](https://github.com/maclovin)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
