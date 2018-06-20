@@ -50,7 +50,7 @@ Signed,
 -  Valentin Iovene [@tgy](https://github.com/tgy)
 -  Jordan Danford [@jdanford](https://github.com/jdanford)
 -  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
--  Aaron Lichtman [@alictman](https://github.com/alichtman)
+-  Aaron Lichtman [@alichtman](https://github.com/alichtman)
 -  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 -  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 
