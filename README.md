@@ -34,4 +34,4 @@ Signed,
 -  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
 -  vøid [@makmm](https://github.com/makmm)
 
-**To add your name or recommend alterations to this text, please submit a PR!**
+**[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
