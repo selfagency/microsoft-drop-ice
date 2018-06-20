@@ -52,7 +52,7 @@ Signed,
 -  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 -  Aaron Lichtman [@alictman](https://github.com/alichtman)
 -  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
-
+-  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
