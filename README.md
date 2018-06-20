@@ -33,5 +33,5 @@ Signed,
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
 -  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
 -  vøid [@makmm](https://github.com/makmm)
-
+-  Eric Sandoval [@emsando] (https://github.com/emsando)
 **To add your name or recommend alterations to this text, please submit a PR!**
