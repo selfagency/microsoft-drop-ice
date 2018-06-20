@@ -26,5 +26,6 @@ Signed,
 -  Mijndert Stuij [@mijndert](https://github.com/mijndert) 
 -  John Hann [@unscriptable](https://github.com/unscriptable)
 -  Thijs van der Vossen [@fingertips](https://github.com/Fingertips)
+-  Thomas Fuchs [@madrobby](https://githum.com/madrobby)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
