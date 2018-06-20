@@ -32,5 +32,6 @@ Signed,
 -  Laurie Voss [@seldo](https://github.com/seldo)
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
 -  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
+-  vøid [@makmm](https://github.com/makmm)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
