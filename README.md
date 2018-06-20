@@ -20,5 +20,6 @@ Signed,
 -  Rick Waldron [@rwaldron](https://github.com/rwaldron)
 -  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 -  Joshua Cook [@joshuacook](https://github.com/joshuacook)
+-  Lea Verou [@leaverou](https://github.com/leaverou)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
