@@ -21,9 +21,9 @@ Signed,
 -  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 -  Joshua Cook [@joshuacook](https://github.com/joshuacook)
 -  Lea Verou [@leaverou](https://github.com/leaverou)
--  Tomas Lycken [@tlycken](https://github.com/tlycken) 
+-  Tomas Lycken [@tlycken](https://github.com/tlycken)
 -  Tobi Schäfer [@p3k](https://github.com/p3k)
--  Mijndert Stuij [@mijndert](https://github.com/mijndert) 
+-  Mijndert Stuij [@mijndert](https://github.com/mijndert)
 -  John Hann [@unscriptable](https://github.com/unscriptable)
 -  Thijs van der Vossen [@fingertips](https://github.com/Fingertips)
 -  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
@@ -33,5 +33,6 @@ Signed,
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
 -  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
 -  vøid [@makmm](https://github.com/makmm)
+-  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
