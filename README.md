@@ -13,7 +13,7 @@ Signed,
 
 -  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, W3C CSS Working Group, Prism, Mavo, Dabblet)
 -  Thomas Fuchs [@madrobby](https://github.com/madrobby) (Zepto, Script.aculo.us, Ruby on Rails)
--  Laurie Voss [@seldo](https://github.com/seldo) (npm, LGBTQ.technology)
+-  Laurie Voss [@seldo](https://github.com/seldo) (LGBTQ.technology)
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
 -  Rick Waldron [@rwaldron](https://github.com/rwaldron) (Ecma/TC39, Johnny-Five)
 -  Daniel Sieradski [@selfagency](https://github.com/selfagency)
