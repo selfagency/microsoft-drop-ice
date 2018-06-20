@@ -11,7 +11,7 @@ We call on Microsoft to end is relationship with ICE and any federal agencies en
 
 Signed,
 
--  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, CSSWG, Prism, Mavo, Dabblet)
+-  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, W3C CSS Working Group, Prism, Mavo, Dabblet)
 -  Thomas Fuchs [@madrobby](https://github.com/madrobby) (Zepto, Script.aculo.us, Ruby on Rails)
 -  Laurie Voss [@seldo](https://github.com/seldo) (npm, LGBTQ.technology)
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
