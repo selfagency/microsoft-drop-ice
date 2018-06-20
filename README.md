@@ -48,6 +48,7 @@ Signed,
 -  Murilo Prestes [@maclovin](https://github.com/maclovin)
 -  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
 -  Valentin Iovene [@tgy](https://github.com/tgy)
+-  Jordan Danford [@jdanford](https://github.com/jdanford)
 -  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
