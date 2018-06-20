@@ -31,5 +31,6 @@ Signed,
 -  Frank Bültge [@bueltge](https://github.com/bueltge)
 -  Laurie Voss [@seldo](https://github.com/seldo)
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
+-  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
