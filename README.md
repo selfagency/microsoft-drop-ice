@@ -37,7 +37,7 @@ Signed,
 -  Igor Buyanov [@artifex404](https://github.com/artifex404)
 -  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 -  Eric Sandoval [@emsando](https://github.com/emsando)
--  David Seidenberg [@davidseid] (https://github.com/davidseid)
+-  David Seidenberg [@davidseid](https://github.com/davidseid)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
