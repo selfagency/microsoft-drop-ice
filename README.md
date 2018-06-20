@@ -38,6 +38,7 @@ Signed,
 -  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 -  Eric Sandoval [@emsando](https://github.com/emsando)
 -  David Seidenberg [@davidseid](https://github.com/davidseid)
+-  Titus Wormer [@wooorm](https://github.com/wooorm)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
