@@ -36,5 +36,6 @@ Signed,
 -  vøid [@makmm](https://github.com/makmm)
 -  Igor Buyanov [@artifex404](https://github.com/artifex404)
 -  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
+-  Eric Sandoval [@emsando](https://github.com/emsando)
 
 **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
