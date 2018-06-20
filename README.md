@@ -46,6 +46,7 @@ Signed,
 -  Mikkel Malmberg [@mikker](https://github.com/mikker)
 -  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
 -  Murilo Prestes [@maclovin](https://github.com/maclovin)
+-  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
