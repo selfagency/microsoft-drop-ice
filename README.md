@@ -38,6 +38,7 @@ Signed,
 -  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 -  Eric Sandoval [@emsando](https://github.com/emsando)
 -  David Seidenberg [@davidseid](https://github.com/davidseid)
+-  Jon Kuperman [@jkup](https://github.com/jkup)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
