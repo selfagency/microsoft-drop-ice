@@ -11,26 +11,28 @@ We call on Microsoft to end is relationship with ICE and any federal agencies en
 
 Signed,
 
+-  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, CSSWG, Prism, Mavo, Dabblet)
+-  Thomas Fuchs [@madrobby](https://github.com/madrobby) (Zepto, Script.aculo.us, Ruby on Rails)
+-  Laurie Voss [@seldo](https://github.com/seldo) (npm, LGBTQ.technology)
+-  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
+-  Rick Waldron [@rwaldron](https://github.com/rwaldron) (Ecma/TC39, Johnny-Five)
 -  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 -  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 -  Gavin Morgan [@quavmo](https://github.com/quavmo)
 -  Abram Stern [@aphid](https://github.com/aphid)
 -  Libby Horacek [@emhoracek](https://github.com/emhoracek)
 -  Jeremy Low [@jeremylow](https://github.com/jeremylow)
--  Rick Waldron [@rwaldron](https://github.com/rwaldron)
 -  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 -  Joshua Cook [@joshuacook](https://github.com/joshuacook)
--  Lea Verou [@leaverou](https://github.com/leaverou)
 -  Tomas Lycken [@tlycken](https://github.com/tlycken) 
 -  Tobi Schäfer [@p3k](https://github.com/p3k)
 -  Mijndert Stuij [@mijndert](https://github.com/mijndert) 
 -  John Hann [@unscriptable](https://github.com/unscriptable)
 -  Thijs van der Vossen [@fingertips](https://github.com/Fingertips)
 -  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
--  Thomas Fuchs [@madrobby](https://github.com/madrobby)
 -  Frank Bültge [@bueltge](https://github.com/bueltge)
--  Laurie Voss [@seldo](https://github.com/seldo)
--  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds)
 -  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
+
+> **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
 **To add your name or recommend alterations to this text, please submit a PR!**
