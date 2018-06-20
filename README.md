@@ -46,6 +46,7 @@ Signed,
 -  Mikkel Malmberg [@mikker](https://github.com/mikker)
 -  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
 -  Murilo Prestes [@maclovin](https://github.com/maclovin)
+-  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
 -  Valentin Iovene [@tgy](https://github.com/tgy)
 -  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 
