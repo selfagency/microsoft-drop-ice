@@ -22,5 +22,6 @@ Signed,
 -  Joshua Cook [@joshuacook](https://github.com/joshuacook)
 -  Lea Verou [@leaverou](https://github.com/leaverou)
 -  Tomas Lycken [@tlycken](https://github.com/tlycken) 
+-  Tobi Schäfer [@p3k](https://github.com/p3k)
 
 **To add your name or recommend alterations to this text, please submit a PR!**
