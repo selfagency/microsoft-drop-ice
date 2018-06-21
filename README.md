@@ -65,6 +65,7 @@ Signed,
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 -  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)up
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+-  Petter Karlsrud [@ptrkrlsrd](https://github.com/ptrkrlsrd)
 -  Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 -  Adrien Antoine [@adriantoine](https://github.com/adriantoine)
 -  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
