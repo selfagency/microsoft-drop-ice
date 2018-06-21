@@ -7,7 +7,7 @@ As members of the open source community and free software movement who embrace v
 
 With Microsoft's acquisition of GitHub, many in the GitHub community were fearful of what new ownership from a company once openly hostile to open source would spell for the future of GitHub, and many of those people chose to leave the site rather than entrust Microsoft with their software. Those of us who remained, because we were willing to give Microsoft a chance to become a steward of the open source movement, will not continue to do so should Microsoft continue to abet the trampling of human and civil rights by this administration and its law enforcement agencies.
 
-We call on Microsoft to end is relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
+We call on Microsoft to end its relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
 
 Signed,
 
@@ -44,6 +44,7 @@ Signed,
 -  Elin Angelov [@zetxx](https://github.com/zetxx)
 -  Titus Wormer [@wooorm](https://github.com/wooorm)
 -  Mikkel Malmberg [@mikker](https://github.com/mikker)
+-  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 -  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
 -  Murilo Prestes [@maclovin](https://github.com/maclovin)
 -  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
@@ -60,6 +61,10 @@ Signed,
 -  Aung Naing Oo [@o92](https://github.com/o92)
 -  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 -  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
+-  lfuelling [@lfuelling](https://github.com/lfuelling)
+-  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
+-  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
+-  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
