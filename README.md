@@ -63,8 +63,9 @@ Signed,
 -  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 -  lfuelling [@lfuelling](https://github.com/lfuelling)
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
--  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
+-  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)up
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+-  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard) 
 -  Christian Petersen [@fnky](https://github.com/fnky)
 -  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
 -  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
