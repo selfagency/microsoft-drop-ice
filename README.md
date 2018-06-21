@@ -87,6 +87,7 @@ Signed,
 -  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
 -  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 -  Daniel Dyssegaard Kallick [@keevie](https://github.com/keevie)
+-  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
