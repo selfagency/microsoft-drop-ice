@@ -63,9 +63,20 @@ Signed,
 -  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 -  lfuelling [@lfuelling](https://github.com/lfuelling)
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
--  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
+-  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)up
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 -  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
+-  Petter Karlsrud [@ptrkrlsrd](https://github.com/ptrkrlsrd)
+-  Emanuele Stoppa [@ematipico](https://github.com/ematipico)
+-  Adrien Antoine [@adriantoine](https://github.com/adriantoine)
+-  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
+-  Arthur Guiot [@arguiot](https://github.com/arguiot)
+-  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard) 
+-  Christian Petersen [@fnky](https://github.com/fnky)
+-  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
+-  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
+-  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
+-  Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
