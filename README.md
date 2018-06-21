@@ -92,7 +92,7 @@ Signed,
 -  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
 -  Brian Yang [@brianyang](https://github.com/brianyang)
 -  Benji Bilheimer [@benjibee](https://github.com/benjibee)
-
+-  Stephen Rivas [@sprjr](https://github.com/sprjr) (Various tiny low impact projects, but a paying customer nonetheless)
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
 **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
