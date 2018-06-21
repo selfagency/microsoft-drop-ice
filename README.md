@@ -84,6 +84,7 @@ Signed,
 -  Mark Rabey [@MarkRabey](https://github.com/MarkRabey)
 -  Capi Etheriel [@barraponto](https://github.com/barraponto)
 -  Josh Waller [@mdxprograms](https://github.com/mdxprograms)
+-  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
