@@ -60,6 +60,7 @@ Signed,
 -  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
 -  Aung Naing Oo [@o92](https://github.com/o92)
 -  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
+-  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 -  lfuelling [@lfuelling](https://github.com/lfuelling)
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 -  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
