@@ -92,6 +92,7 @@ Signed,
 -  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
 -  Brian Yang [@brianyang](https://github.com/brianyang)
 -  Benji Bilheimer [@benjibee](https://github.com/benjibee)
+-  Jiří Špác [@capaj](https://github.com/capaj)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
