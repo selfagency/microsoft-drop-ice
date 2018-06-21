@@ -92,6 +92,7 @@ Signed,
 -  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
 -  Brian Yang [@brianyang](https://github.com/brianyang)
 -  Benji Bilheimer [@benjibee](https://github.com/benjibee)
+-  Stephen Rivas [@sprjr](https://github.com/sprjr)
 -  Jiří Špác [@capaj](https://github.com/capaj)
 -  W.O. Boats [@withoutboats](https://github.com/withoutboats) (Rust)
 -  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
