@@ -92,7 +92,6 @@ Signed,
 -  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
 -  Brian Yang [@brianyang](https://github.com/brianyang)
 -  Benji Bilheimer [@benjibee](https://github.com/benjibee)
--  Victor Saiz [@vectorsize](https://github.com/vectorsize)
 -  Stephen Rivas [@sprjr](https://github.com/sprjr)
 -  Jiří Špác [@capaj](https://github.com/capaj)
 -  W.O. Boats [@withoutboats](https://github.com/withoutboats) (Rust)
@@ -100,7 +99,7 @@ Signed,
 -  Daniel Bennett [@danBennettDev](https://github.com/danbennettdev)
 -  Jad Sarout [@xananax](https://github.com/Xananax/)
 -  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
-
+-  Kevin Milner [@codeslingerMalthius](https://github.com/codeslingerMalthius)
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
 **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
