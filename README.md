@@ -92,6 +92,7 @@ Signed,
 -  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
 -  Brian Yang [@brianyang](https://github.com/brianyang)
 -  Benji Bilheimer [@benjibee](https://github.com/benjibee)
+-  Raymond Cano [@rayraycano](https://github.com/rayraycano)
 -  Victor Saiz [@vectorsize](https://github.com/vectorsize)
 -  Stephen Rivas [@sprjr](https://github.com/sprjr)
 -  Jiří Špác [@capaj](https://github.com/capaj)
