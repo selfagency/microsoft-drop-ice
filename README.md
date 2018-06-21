@@ -66,7 +66,7 @@ Signed,
 -  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 -  lfuelling [@lfuelling](https://github.com/lfuelling)
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
--  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)up
+-  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 -  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
 -  Petter Karlsrud [@ptrkrlsrd](https://github.com/ptrkrlsrd)
