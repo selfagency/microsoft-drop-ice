@@ -87,6 +87,7 @@ Signed,
 -  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
 -  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 -  Daniel Dyssegaard Kallick [@keevie](https://github.com/keevie)
+-  Jim Kang [@deathmtn](https://github.com/jimkang)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
