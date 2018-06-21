@@ -44,21 +44,8 @@ Signed,
 -  Elin Angelov [@zetxx](https://github.com/zetxx)
 -  Titus Wormer [@wooorm](https://github.com/wooorm)
 -  Mikkel Malmberg [@mikker](https://github.com/mikker)
--  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
--  Murilo Prestes [@maclovin](https://github.com/maclovin)
--  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
--  Valentin Iovene [@tgy](https://github.com/tgy)
--  Jordan Danford [@jdanford](https://github.com/jdanford)
--  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
--  Aaron Lichtman [@alichtman](https://github.com/alichtman)
--  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
--  Jason Palmer [@palmerj3](https://github.com/palmerj3)
--  Danilo Guanabara [@danguafer](https://github.com/danguafer)
--  Elijah Cruz [@elijahcruz12](https://github.com/elijahcruz12)
--  Michael Bishop [@miklb](https://github.com/miklb)
--  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
--  Aung Naing Oo [@o92](https://github.com/o92)
--  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
+-  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
+
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
