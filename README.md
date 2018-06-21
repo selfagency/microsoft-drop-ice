@@ -103,6 +103,7 @@ Signed,
 -  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 -  Don Bellenger [@donnotron666](https://github.com/donnotron666)
 -  Ted Dobyns [@tedajax](https://github.com/tedajax)
+-  TechdudeGames [@techdudegames](https://github.com/techdudegames)
 -  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 -  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
 
