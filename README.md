@@ -65,6 +65,7 @@ Signed,
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 -  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+-  Christian Petersen [@fnky](https://github.com/fnky)
 -  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
 -  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 -  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
