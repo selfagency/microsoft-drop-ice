@@ -44,6 +44,7 @@ Signed,
 -  Elin Angelov [@zetxx](https://github.com/zetxx)
 -  Titus Wormer [@wooorm](https://github.com/wooorm)
 -  Mikkel Malmberg [@mikker](https://github.com/mikker)
+-  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 -  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
 -  Murilo Prestes [@maclovin](https://github.com/maclovin)
 -  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
