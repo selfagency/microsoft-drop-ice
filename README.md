@@ -63,8 +63,9 @@ Signed,
 -  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 -  lfuelling [@lfuelling](https://github.com/lfuelling)
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
--  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
+-  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)up
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+-  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard) 
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
