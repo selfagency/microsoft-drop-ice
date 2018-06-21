@@ -80,6 +80,7 @@ Signed,
 -  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 -  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
 -  Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
+-  Allen Hai [@coetry](https://github.com/coetry)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
