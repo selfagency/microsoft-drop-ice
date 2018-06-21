@@ -93,6 +93,7 @@ Signed,
 -  Brian Yang [@brianyang](https://github.com/brianyang)
 -  Benji Bilheimer [@benjibee](https://github.com/benjibee)
 -  Jad Sarout [@xananax](https://github.com/Xananax/)
+-  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
