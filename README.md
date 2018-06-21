@@ -65,6 +65,7 @@ Signed,
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 -  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)up
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+-  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
 -  Arthur Guiot [@arguiot](https://github.com/arguiot)
 -  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard) 
 -  Christian Petersen [@fnky](https://github.com/fnky)
