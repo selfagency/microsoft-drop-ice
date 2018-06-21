@@ -65,6 +65,7 @@ Signed,
 -  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 -  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 -  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+-  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
