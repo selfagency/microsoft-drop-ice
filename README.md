@@ -90,6 +90,7 @@ Signed,
 -  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
 -  Jim Kang [@deathmtn](https://github.com/jimkang)
 -  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
+-  Brian Yang [@brianyang](https://github.com/brianyang)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
