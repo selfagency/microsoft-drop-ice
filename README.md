@@ -103,6 +103,7 @@ Signed,
 -  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 -  Don Bellenger [@donnotron666](https://github.com/donnotron666)
 -  Celti Burroughs [@Celti](https://github.com/Celti)
+-  Ted Dobyns [@tedajax](https://github.com/tedajax)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
