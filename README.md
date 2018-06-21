@@ -54,6 +54,7 @@ Signed,
 -  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 -  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 -  Danilo Guanabara [@danguafer](https://github.com/danguafer)
+-  Elijah Cruz [@elijahcruz12](https://github.com/elijahcruz12)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
