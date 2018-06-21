@@ -56,6 +56,7 @@ Signed,
 -  Danilo Guanabara [@danguafer](https://github.com/danguafer)
 -  Elijah Cruz [@elijahcruz12](https://github.com/elijahcruz12)
 -  Michael Bishop [@miklb](https://github.com/miklb)
+-  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
