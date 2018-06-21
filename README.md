@@ -102,6 +102,7 @@ Signed,
 -  Jad Sarout [@xananax](https://github.com/Xananax/)
 -  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 -  Don Bellenger [@donnotron666](https://github.com/donnotron666)
+-  Celti Burroughs [@Celti](https://github.com/Celti)
 -  Ted Dobyns [@tedajax](https://github.com/tedajax)
 -  TechdudeGames [@techdudegames](https://github.com/techdudegames)
 -  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
