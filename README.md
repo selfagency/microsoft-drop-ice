@@ -115,6 +115,7 @@ Signed,
 -  Kevin Corado [@KCorado](https://github.com/KCorado)
 -  Isaiah Joshua M. Samonte [@xemasiv](https://github.com/xemasiv)
 -  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
+-  Matthew Searles [mattxo](https://github.com/mattxo)
 -  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
 -  Pat Li [@xueyuanl](https://github.com/xueyuanl)
 
