@@ -130,6 +130,7 @@ Signed,
 1.  Libby Horacek [@emhoracek](https://github.com/emhoracek)
 1.  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
 1.  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
+1.  Maaz Khan [@maazkhan] (https://github.com/maazkhan)
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
 1.  Maria Peniche [@inPen](https://github.com/InPen)
 1.  Margeaux Spring [@cheapwebmonkey](https://github.com/cheapwebmonkey)
@@ -200,6 +201,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars])(https://github.com/zomars)
-1.  Maaz Khan [@maazkhan] (https://github.com/maazkhan)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
