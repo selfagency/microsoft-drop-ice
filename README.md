@@ -9,6 +9,21 @@ With Microsoft's acquisition of GitHub, many in the GitHub community were fearfu
 
 We call on Microsoft to end its relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
 
+---
+
+**Please note the following excerpt from the "Open Source Definition" before signing this petition.**
+
+- From [opensource.org](https://opensource.org/osd-annotated):
+```
+5. No Discrimination Against Persons or Groups
+
+6. No Discrimination Against Fields of Endeavor
+```
+
+Please sign below if you believe that the OSD rights listed above do not extend to Persons or Groups that you disagree with. 
+
+---
+
 Signed,
 
 -  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, W3C CSS Working Group, Prism, Mavo, Dabblet)
