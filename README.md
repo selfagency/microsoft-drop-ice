@@ -42,6 +42,7 @@ Signed,
 1.  Anna Henningsen [@addaleax](https://github.com/addaleax)
 1.  Anthony Maki [@4cm4k1](https://github.com/4cm4k1)
 1.  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard) 
+1.  Antonopoulos Georgios [@AntGeorge](https://github.com/AntGeorge)
 1.  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
 1.  Arthur Guiot [@arguiot](https://github.com/arguiot)
 1.  Aung Naing Oo [@o92](https://github.com/o92)
