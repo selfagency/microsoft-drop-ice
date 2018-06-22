@@ -161,6 +161,7 @@ Signed,
 1.  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 1.  Raymond Cano [@rayraycano](https://github.com/rayraycano)
 1.  Remus Buzatu [@rbuzatu90](https://github.com/rbuzatu90/)
+1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
