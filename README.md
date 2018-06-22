@@ -99,6 +99,7 @@ Signed,
 1.  Josh Waller [@mdxprograms](https://github.com/mdxprograms)
 1.  Joshua Cook [@joshuacook](https://github.com/joshuacook)
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
+1.  Kevin Milner [@codeslingerMalthius](https://github.com/codeslingerMalthius)
 1.  lfuelling [@lfuelling](https://github.com/lfuelling)
 1.  Libby Horacek [@emhoracek](https://github.com/emhoracek)
 1.  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
