@@ -1,3 +1,0 @@
-<footer class="site-footer h-card">
-
-</footer>

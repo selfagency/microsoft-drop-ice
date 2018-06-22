@@ -1,5 +1,5 @@
 ---
-layout: index
+layout: default
 ---
 
 **Tell Microsoft to drop ICE as a client or lose us as Github users**
