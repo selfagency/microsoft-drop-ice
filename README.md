@@ -107,11 +107,13 @@ Signed,
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
 1.  Kevin Lalka [@lalka-workco](https://github.com/lalka-workco)
 1.  Kevin Milner [@codeslingerMalthius](https://github.com/codeslingerMalthius)
+1.  Le Minh Tri [@ansidev](https://github.com/ansidev)
 1.  lfuelling [@lfuelling](https://github.com/lfuelling)
 1.  Libby Horacek [@emhoracek](https://github.com/emhoracek)
 1.  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
 1.  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
+1.  Maria Peniche [@inPen](https://github.com/InPen)
 1.  Mark Rabey [@MarkRabey](https://github.com/MarkRabey)
 1.  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
 1.  Matthew Searles [mattxo](https://github.com/mattxo)
@@ -165,6 +167,5 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232) 
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Maria Peniche [@inPen](https://github.com/InPen)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
