@@ -150,6 +150,7 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  Ben Nelson [@nelsonblaha](https://github.com/nelsonblaha)
+1.  Ken Godoy [@kgodoy](https://github.com/kgodoy)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
