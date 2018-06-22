@@ -108,6 +108,7 @@ Signed,
 -  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 -  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
 -  Umayah Abdennabi [@sudohalt](https://github.com/sudohalt)
+-  Ben Wiley [@benwiley4000](https://github.com/benwiley4000)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
