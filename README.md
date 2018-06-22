@@ -116,6 +116,8 @@ Signed,
 -  Isaiah Joshua M. Samonte [@xemasiv](https://github.com/xemasiv)
 -  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
 -  Matthew Searles [mattxo](https://github.com/mattxo)
+-  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
+-  Pat Li [@xueyuanl](https://github.com/xueyuanl)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
