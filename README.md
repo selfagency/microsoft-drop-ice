@@ -184,6 +184,7 @@ Signed,
 1.  Tobi Schäfer [@p3k](https://github.com/p3k)
 1.  Tom Lazar [@tomlazar](https://github.com/tomlazar)
 1.  Tomas Lycken [@tlycken](https://github.com/tlycken)
+1.  Tucker Boniface [@heyitswither](https://github.com/heyitswither)
 1.  Tyler Thompson [@tptee](https://github.com/tptee)
 1.  Umayah Abdennabi [@sudohalt](https://github.com/sudohalt)
 1.  Valentin Iovene [@tgy](https://github.com/tgy)
