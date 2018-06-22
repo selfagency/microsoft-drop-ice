@@ -108,6 +108,7 @@ Signed,
 -  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 -  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
 -  Umayah Abdennabi [@sudohalt](https://github.com/sudohalt)
+-  Flávio Caetano [@fjcaetano](https://github.com/fjcaetano)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
