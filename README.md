@@ -113,6 +113,7 @@ Signed,
 1.  Jim Kang [@deathmtn](https://github.com/jimkang)
 1.  Jiří Špác [@capaj](https://github.com/capaj)
 1.  John Hann [@unscriptable](https://github.com/unscriptable)
+1.  Jon Culver [@bahoo](http://github.com/bahoo)
 1.  Jon Kuperman [@jkup](https://github.com/jkup)
 1.  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
 1.  Jordan Danford [@jdanford](https://github.com/jdanford)
