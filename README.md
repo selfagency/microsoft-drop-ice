@@ -102,7 +102,7 @@ Signed,
 -  Jad Sarout [@xananax](https://github.com/Xananax/)
 -  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 -  Matt Glaser [@oppodeldoc](https://github.com/oppodeldoc)
-
+-  Jasmine Hennessy [@jennessy](https://github.com/jennessy)
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
 **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
