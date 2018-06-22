@@ -164,6 +164,7 @@ Signed,
 1.  Sam Lloyd [@binchicken](https://github.com/binchicken)
 1.  Sarah Majors [@sfmajors373](https://github.com/sfmajors373)
 1.  Shannon Drew [@sdrewdle](https://github.com/sdrewdle)
+1.  Sharath Ramkumar [@sharath](https://github.com/sharath)
 1.  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
 1.  Stefen Wakefield [@xstefen](https://github.com/xstefen)
@@ -192,7 +193,6 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232)
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Sharath Ramkumar [@sharath](https://github.com/sharath)
 
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
