@@ -84,6 +84,7 @@ Signed,
 1.  Gavin Morgan [@quavmo](https://github.com/quavmo)
 1.  Good-Loop [@good-loop](https://github.com/good-loop)
 1.  Guido [@schugDev](https://github.com/schugDev)
+1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
 1.  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 1.  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
@@ -173,6 +174,5 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232) 
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
