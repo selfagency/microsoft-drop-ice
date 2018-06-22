@@ -108,6 +108,7 @@ Signed,
 -  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 -  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
 -  Umayah Abdennabi [@sudohalt](https://github.com/sudohalt)
+-  Ben Wiley [@benwiley4000](https://github.com/benwiley4000)
 -  Flávio Caetano [@fjcaetano](https://github.com/fjcaetano)
 -  Carlos Colón [@cppmx](https://github.com/cppmx)
 -  Kevin Corado [@KCorado](https://github.com/KCorado)
