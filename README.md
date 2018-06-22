@@ -140,6 +140,7 @@ Signed,
 1.  Mijndert Stuij [@mijndert](https://github.com/mijndert)
 1.  Mike Eng [@mrengy](https://github.com/mrengy)
 1.  Mikkel Malmberg [@mikker](https://github.com/mikker)
+1.  Moses Wynn [@moseswynn](https://github.com/moseswynn)
 1.  Murilo Prestes [@maclovin](https://github.com/maclovin)
 1.  Nate Sutton [@nmsutton](https://github.com/nmsutton)
 1.  Naveen Kumar Sangi [@nkprince007](https://github.com/nkprince007)
@@ -191,6 +192,5 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232)
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Moses Wynn [@moseswynn](https://github.com/moseswynn)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
