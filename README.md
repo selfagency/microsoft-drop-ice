@@ -147,6 +147,7 @@ Signed,
 1.  vøid [@makmm](https://github.com/makmm)
 1.  Will [@qubist](https://github.com/qubist)
 1.  Yaohan Chen [@hagabaka](https://github.com/hagabaka)
+1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232) 
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
