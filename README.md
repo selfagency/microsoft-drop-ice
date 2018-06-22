@@ -30,7 +30,7 @@ Signed,
 1.  Allen Hai [@coetry](https://github.com/coetry)
 1.  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 1.  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
-1.  Andrew Wasson [@awasson] (https://github.com/awasson)
+1.  Andrew Wasson [@awasson](https://github.com/awasson)
 1.  Andy Galasso [@agalasso](https://github.com/agalasso)
 1.  Anna Henningsen [@addaleax](https://github.com/addaleax)
 1.  Anthony Maki [@4cm4k1](https://github.com/4cm4k1)
