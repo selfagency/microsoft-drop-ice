@@ -118,6 +118,7 @@ Signed,
 -  Matthew Searles [mattxo](https://github.com/mattxo)
 -  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
 -  Pat Li [@xueyuanl](https://github.com/xueyuanl)
+-  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
