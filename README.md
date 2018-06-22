@@ -129,6 +129,7 @@ Signed,
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
 1.  Pat Li [@xueyuanl](https://github.com/xueyuanl)
 1.  Patrick Curl [@patrickcurl](https://github.com/patrickcurl)
+1.  Paul Nolan [@close-paren](https://github.com/close-paren)
 1.  Pedro Rodrigues [@pedro2555](https://github.com/pedro2555)
 1.  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 1.  Peter Bittner [@bittner](https://github.com/bittner)
