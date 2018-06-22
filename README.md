@@ -88,6 +88,7 @@ Signed,
 1.  Flávio Caetano [@fjcaetano](https://github.com/fjcaetano)
 1.  Frank Bültge [@bueltge](https://github.com/bueltge)
 1.  Gavin Morgan [@quavmo](https://github.com/quavmo)
+1.  Gido [@gidoBOSSftw5731](https://github.com/gidobossftw5731) (WifiPi, imgsrvr)
 1.  Good-Loop [@good-loop](https://github.com/good-loop)
 1.  Guido [@schugDev](https://github.com/schugDev)
 1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
