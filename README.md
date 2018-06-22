@@ -79,6 +79,7 @@ Signed,
 1.  Isaiah Joshua M. Samonte [@xemasiv](https://github.com/xemasiv)
 1.  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 1.  Jad Sarout [@xananax](https://github.com/Xananax/)
+1.  Jamie King [@king0120](https://github.com/king0120)
 1.  Jan Peer [@JPeer264](https://github.com/JPeer264)
 1.  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
