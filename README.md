@@ -1,13 +1,13 @@
 # Microsoft: Drop ICE!
 **Tell Microsoft to drop ICE as a client or lose us as GitHub users**
 
-Hi,
+Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to *accelerate facial recognition and identification*." (Emphasis added.)
 
-we are special snowflakes that hate the Trump administration and do not want to see the laws being enforced. We value our own  believes higher stand the law and think everybody should agree with us. Also we do not understand that not everybody in a 20.000 people agency is involved with deporting illegal aliens.
+As members of the open source community and free software movement who embrace values of freedom, liberty, openness, sharing, mutual aid, and general human kindness, we are horrified by and strongly object to the Trump administration's policies of detainment, denaturalization, deportation, and family separation as carried out by ICE.
 
-Also the words "illegal aliens" trigger us very much.
+With Microsoft's acquisition of GitHub, many in the GitHub community were fearful of what new ownership from a company once openly hostile to open source would spell for the future of GitHub, and [many of those people](https://www.bleepingcomputer.com/news/technology/gitlab-sees-huge-traffic-spike-after-news-of-microsoft-buying-github/) chose to [leave the site](https://docs.gitlab.com/ee/user/project/import/github.html) rather than entrust Microsoft with their software. Those of us who remained, because we were willing to give Microsoft a chance to become a steward of the open source movement, will not continue to do so should Microsoft continue to abet the trampling of human and civil rights by this administration and its law enforcement agencies.
 
-REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
+We call on Microsoft to end its relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
 
 Signed,
 
