@@ -8,6 +8,7 @@ Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com
 
 As members of the open source community and free software movement who embrace values of freedom, liberty, openness, sharing, mutual aid, and general human kindness, we are horrified by and strongly object to the Trump administration's policies of detainment, denaturalization, deportation, and family separation as carried out by ICE.
 
+<img width="200" alt="msice" src="https://user-images.githubusercontent.com/2541728/41785088-80de504a-760f-11e8-8e7f-0d9102f8bd28.png" align="right">
 With Microsoft's acquisition of GitHub, many in the GitHub community were fearful of what new ownership from a company once openly hostile to open source would spell for the future of GitHub, and [many of those people](https://www.bleepingcomputer.com/news/technology/gitlab-sees-huge-traffic-spike-after-news-of-microsoft-buying-github/) chose to [leave the site](https://docs.gitlab.com/ee/user/project/import/github.html) rather than entrust Microsoft with their software. Those of us who remained, because we were willing to give Microsoft a chance to become a steward of the open source movement, will not continue to do so should Microsoft continue to abet the trampling of human and civil rights by this administration and its law enforcement agencies.
 
 We call on Microsoft to end its relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
@@ -15,8 +16,6 @@ We call on Microsoft to end its relationship with ICE and any federal agencies e
 | ADD YOUR NAME |
 | :--- |
 | **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation. |
-
-<p align="center"><img width="200" alt="msice" src="https://user-images.githubusercontent.com/2541728/41785088-80de504a-760f-11e8-8e7f-0d9102f8bd28.png"></p>
 
 Signed,
 
