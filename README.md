@@ -121,6 +121,7 @@ Signed,
 -  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 -  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 -  Nate Sutton [@nmsutton](https://github.com/nmsutton)
+-  Stefen Wakefield [@xstefen](https://github.com/xstefen)
 -  Tao He [@taohexxx](https://github.com/taohexxx)
 -  Patrick Curl [@patrickcurl](https://github.com/patrickcurl)
 -  Daniel Winterstein [@winterstein](https://github.com/winterstein)
