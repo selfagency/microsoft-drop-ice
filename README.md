@@ -79,6 +79,7 @@ Signed,
 1.  Elin Angelov [@zetxx](https://github.com/zetxx)
 1.  Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 1.  Eric Sandoval [@emsando](https://github.com/emsando)
+1.  Eric Schultz [@ericschultz](https://github.com/ericschultz)
 1.  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
 1.  Eugene Belinski [@ebelinski](https://github.com/ebelinski/)
 1.  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
