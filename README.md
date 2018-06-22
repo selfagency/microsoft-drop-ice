@@ -84,6 +84,7 @@ Signed,
 1.  Jamie King [@king0120](https://github.com/king0120)
 1.  Jan Peer [@JPeer264](https://github.com/JPeer264)
 1.  Jason Palmer [@palmerj3](https://github.com/palmerj3)
+1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 1.  Jeremy Low [@jeremylow](https://github.com/jeremylow)
 1.  Jim Kang [@deathmtn](https://github.com/jimkang)
