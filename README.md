@@ -140,6 +140,7 @@ Signed,
 1.  Remus Buzatu [@rbuzatu90](https://github.com/rbuzatu90/)
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
+1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
 1.  Sam Lloyd [@binchicken](https://github.com/binchicken)
 1.  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
@@ -165,6 +166,5 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232) 
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
