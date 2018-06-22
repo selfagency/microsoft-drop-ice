@@ -69,6 +69,7 @@ Signed,
 1.  Emanuele Stoppa [@ematipico](https://github.com/ematipico)
 1.  Eric Sandoval [@emsando](https://github.com/emsando)
 1.  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
+1.  Eugene Belinski [@ebelinski](https://github.com/ebelinski/)
 1.  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
 1.  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
 1.  Firat Deniz [@fdeniz](https://github.com/fdeniz)
@@ -157,7 +158,6 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232) 
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Eugene Belinski [@ebelinski](https://github.com/ebelinski/) (Software for Good)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
