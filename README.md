@@ -109,6 +109,8 @@ Signed,
 -  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
 -  Umayah Abdennabi [@sudohalt](https://github.com/sudohalt)
 -  Flávio Caetano [@fjcaetano](https://github.com/fjcaetano)
+-  Carlos Colón [@cppmx](https://github.com/cppmx)
+-  Kevin Corado [@KCorado](https://github.com/KCorado)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
