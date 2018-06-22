@@ -121,6 +121,7 @@ Signed,
 -  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 -  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 -  Nate Sutton [@nmsutton](https://github.com/nmsutton)
+-  coolreader18 [@coolreader18](https://github.com/coolreader18)
 -  Andrew Wasson [@awasson] (https://github.com/awasson)
 -  Tyler Thompson [@tptee](https://github.com/tptee)
 -  Naveen Kumar Sangi [@nkprince007](https://github.com/nkprince007)
