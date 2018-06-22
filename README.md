@@ -113,6 +113,7 @@ Signed,
 1.  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 1.  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
+1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
 1.  Pat Li [@xueyuanl](https://github.com/xueyuanl)
 1.  Patrick Curl [@patrickcurl](https://github.com/patrickcurl)
 1.  Pedro Rodrigues [@pedro2555](https://github.com/pedro2555)
@@ -147,7 +148,6 @@ Signed,
 1.  Yaohan Chen [@hagabaka](https://github.com/hagabaka)
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  ZakkMan [@ZakkMan](https://github.com/ZakkMan)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
