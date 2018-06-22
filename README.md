@@ -121,6 +121,7 @@ Signed,
 -  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 -  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 -  Nate Sutton [@nmsutton](https://github.com/nmsutton)
+-  Patrick Curl [@patrickcurl](https://github.com/patrickcurl)
 -  Daniel Winterstein [@winterstein](https://github.com/winterstein)
 -  Good-Loop [@good-loop](https://github.com/good-loop)
 -  Adam Yi [@adamyi](https://github.com/adamyi)
