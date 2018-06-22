@@ -142,6 +142,7 @@ Signed,
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 1.  Sam Lloyd [@binchicken](https://github.com/binchicken)
+1.  Sarah Majors [@sfmajors373](http://github.com/sfmajors373)
 1.  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
 1.  Stefen Wakefield [@xstefen](https://github.com/xstefen)
