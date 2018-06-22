@@ -84,6 +84,7 @@ Signed,
 1.  Gavin Morgan [@quavmo](https://github.com/quavmo)
 1.  Good-Loop [@good-loop](https://github.com/good-loop)
 1.  Guido [@schugDev](https://github.com/schugDev)
+1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
 1.  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 1.  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
