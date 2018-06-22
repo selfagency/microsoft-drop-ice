@@ -112,6 +112,7 @@ Signed,
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
 1.  Kevin Lalka [@lalka-workco](https://github.com/lalka-workco)
 1.  Kevin Milner [@codeslingerMalthius](https://github.com/codeslingerMalthius)
+1.  Konstantin K. [@kkostov](https://github.com/kkostov)
 1.  Le Minh Tri [@ansidev](https://github.com/ansidev)
 1.  lfuelling [@lfuelling](https://github.com/lfuelling)
 1.  Libby Horacek [@emhoracek](https://github.com/emhoracek)
