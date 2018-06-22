@@ -141,6 +141,7 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  Will [@qubist](https://github.com/qubist)
+1.  Guido [@schugDev](https://github.com/schugDev) 
 1.  Tom Lazar [@tomlazar](https://github.com/tomlazar)
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 
