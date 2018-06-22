@@ -160,6 +160,7 @@ Signed,
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
 1.  Stefen Wakefield [@xstefen](https://github.com/xstefen)
 1.  Stephen Rivas [@sprjr](https://github.com/sprjr)
+1.  Sumit Sen [@sumit1sen](https://github.com/sumit1sen)
 1.  Sushant Rao [@sushant10](https://github.com/sushant10)
 1.  Tao He [@taohexxx](https://github.com/taohexxx)
 1.  TechdudeGames [@techdudegames](https://github.com/techdudegames)
@@ -181,5 +182,5 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232) 
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Sumit Sen [@sumit1sen](https://github.com/sumit1sen)
+
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
