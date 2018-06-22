@@ -94,6 +94,7 @@ Signed,
 1.  Gido [@gidoBOSSftw5731](https://github.com/gidobossftw5731) (WifiPi, imgsrvr)
 1.  Good-Loop [@good-loop](https://github.com/good-loop)
 1.  Guido [@schugDev](https://github.com/schugDev)
+1.  gusfravo [@gusfravo](https://github.com/gusfravo)
 1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
 1.  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
@@ -200,6 +201,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars])(https://github.com/zomars)
-1.  gusfravo [@gusfravo](https://github.com/gusfravo)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
