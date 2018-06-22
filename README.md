@@ -12,11 +12,11 @@ With Microsoft's acquisition of GitHub, many in the GitHub community were fearfu
 
 We call on Microsoft to end its relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
 
-<p align="center"><img width="200" alt="msice" src="https://user-images.githubusercontent.com/2541728/41785088-80de504a-760f-11e8-8e7f-0d9102f8bd28.png"></p>
-
 | ADD YOUR NAME |
 | :--- |
 | **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation. |
+
+<p align="center"><img width="200" alt="msice" src="https://user-images.githubusercontent.com/2541728/41785088-80de504a-760f-11e8-8e7f-0d9102f8bd28.png"></p>
 
 Signed,
 
