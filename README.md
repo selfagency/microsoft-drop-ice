@@ -129,6 +129,7 @@ Signed,
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
 1.  Pat Li [@xueyuanl](https://github.com/xueyuanl)
 1.  Patrick Curl [@patrickcurl](https://github.com/patrickcurl)
+1.  Paul Nolan [@close-paren](https://github.com/close-paren)
 1.  Pedro Rodrigues [@pedro2555](https://github.com/pedro2555)
 1.  Peter Benjamin [@petermbenjamin](https://github.com/petermbenjamin)
 1.  Peter Bittner [@bittner](https://github.com/bittner)
@@ -143,6 +144,7 @@ Signed,
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
 1.  Stefen Wakefield [@xstefen](https://github.com/xstefen)
 1.  Stephen Rivas [@sprjr](https://github.com/sprjr)
+1.  Sushant Rao [@sushant10](https://github.com/sushant10)
 1.  Tao He [@taohexxx](https://github.com/taohexxx)
 1.  TechdudeGames [@techdudegames](https://github.com/techdudegames)
 1.  Ted Dobyns [@tedajax](https://github.com/tedajax)
@@ -163,6 +165,5 @@ Signed,
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232) 
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
-1.  Sushant Rao [@sushant10](https://github.com/sushant10)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
