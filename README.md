@@ -9,6 +9,21 @@ Also the words "illegal aliens" trigger us very much.
 
 REEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
 
+---
+
+**Please note the following excerpt from the "Open Source Definition" before signing this petition.**
+
+- From [opensource.org](https://opensource.org/osd-annotated):
+```
+5. No Discrimination Against Persons or Groups
+
+6. No Discrimination Against Fields of Endeavor
+```
+
+Please sign below if you believe that the OSD rights listed above do not extend to Persons or Groups that you disagree with. 
+
+---
+
 Signed,
 
 -  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, W3C CSS Working Group, Prism, Mavo, Dabblet)
