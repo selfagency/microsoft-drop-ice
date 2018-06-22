@@ -173,6 +173,7 @@ Signed,
 1.  Sharath Ramkumar [@sharath](https://github.com/sharath)
 1.  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
+1.  Sean Dean [@anthropos9](https://github.com/anthropos9)
 1.  Stefen Wakefield [@xstefen](https://github.com/xstefen)
 1.  Stephen Rivas [@sprjr](https://github.com/sprjr)
 1.  Sumit Sen [@sumit1sen](https://github.com/sumit1sen)
