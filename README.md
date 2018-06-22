@@ -167,6 +167,7 @@ Signed,
 1.  Sam Lloyd [@binchicken](https://github.com/binchicken)
 1.  Sarah Majors [@sfmajors373](https://github.com/sfmajors373)
 1.  Shannon Drew [@sdrewdle](https://github.com/sdrewdle)
+1.  Sharath Ramkumar [@sharath](https://github.com/sharath)
 1.  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
 1.  Stefen Wakefield [@xstefen](https://github.com/xstefen)
