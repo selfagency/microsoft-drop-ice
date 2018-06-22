@@ -121,6 +121,7 @@ Signed,
 -  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 -  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 -  Nate Sutton [@nmsutton](https://github.com/nmsutton)
+-  Aakash Sigdel [@aakashsigdel](https://github.com/aakashsigdel)
 -  Chris Murphy [@mdhornet90](https://github.com/mdhornet90)
 -  Pedro Rodrigues [@pedro2555](https://github.com/pedro2555)
 -  Stefen Wakefield [@xstefen](https://github.com/xstefen)
