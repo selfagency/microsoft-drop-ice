@@ -162,4 +162,4 @@ Signed,
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
-**[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)**
+**To add your name or recommend alterations to this text, [please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation. 
