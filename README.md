@@ -18,6 +18,7 @@ Signed,
 -  Jamie Kyle [@jamiebuilds](https://github.com/jamiebuilds) (Babel, Yarn, Flow, Parcel, Marionette, Lerna)
 -  Orta Therox [@orta](https://github.com/orta) (Artsy, CocoaPods, Danger)
 -  Rick Waldron [@rwaldron](https://github.com/rwaldron) (Ecma/TC39, Johnny-Five, Bocoup)
+-  W.O. Boats [@withoutboats](https://github.com/withoutboats) (Rust)
 -  Anna Henningsen [@addaleax](https://github.com/addaleax)
 -  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 -  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
@@ -96,7 +97,6 @@ Signed,
 -  Victor Saiz [@vectorsize](https://github.com/vectorsize)
 -  Stephen Rivas [@sprjr](https://github.com/sprjr)
 -  Jiří Špác [@capaj](https://github.com/capaj)
--  W.O. Boats [@withoutboats](https://github.com/withoutboats) (Rust)
 -  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
 -  Daniel Bennett [@danBennettDev](https://github.com/danbennettdev)
 -  Jad Sarout [@xananax](https://github.com/Xananax/)
@@ -114,7 +114,7 @@ Signed,
 -  Carlos Colón [@cppmx](https://github.com/cppmx)
 -  Kevin Corado [@KCorado](https://github.com/KCorado)
 -  Isaiah Joshua M. Samonte [@xemasiv](https://github.com/xemasiv)
--  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan) (EthicalJobs, APSau, ClemengerBBDO)
+-  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
