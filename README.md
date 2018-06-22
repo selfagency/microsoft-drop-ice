@@ -121,6 +121,7 @@ Signed,
 -  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 -  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 -  Nate Sutton [@nmsutton](https://github.com/nmsutton)
+-  Jan Peer [@JPeer264](https://github.com/JPeer264)
 -  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 -  Aakash Sigdel [@aakashsigdel](https://github.com/aakashsigdel)
 -  Chris Murphy [@mdhornet90](https://github.com/mdhornet90)
