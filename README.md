@@ -111,6 +111,7 @@ Signed,
 -  Flávio Caetano [@fjcaetano](https://github.com/fjcaetano)
 -  Carlos Colón [@cppmx](https://github.com/cppmx)
 -  Kevin Corado [@KCorado](https://github.com/KCorado)
+-  Isaiah Joshua M. Samonte [@xemasiv](https://github.com/xemasiv)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
