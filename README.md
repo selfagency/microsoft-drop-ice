@@ -121,6 +121,7 @@ Signed,
 -  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 -  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 -  Nate Sutton [@nmsutton](https://github.com/nmsutton)
+-  Adam Yi [@adamyi](https://github.com/adamyi)
 -  Axel Stoll [@saufbernd](https://github.com/saufbernd)
 -  Peter Bittner [@bittner](https://github.com/bittner)
 
