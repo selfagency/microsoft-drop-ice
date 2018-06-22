@@ -121,6 +121,7 @@ Signed,
 -  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 -  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 -  Nate Sutton [@nmsutton](https://github.com/nmsutton)
+-  Naveen Kumar Sangi [@nkprince007](https://github.com/nkprince007)
 -  Andy Galasso [@agalasso](https://github.com/agalasso)
 -  Jan Peer [@JPeer264](https://github.com/JPeer264)
 -  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
