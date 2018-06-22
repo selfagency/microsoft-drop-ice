@@ -1,6 +1,8 @@
 # Microsoft: Drop ICE!
 **Tell Microsoft to drop ICE as a client or lose us as GitHub users**
 
+<img width="300" alt="msice" src="https://user-images.githubusercontent.com/2541728/41785088-80de504a-760f-11e8-8e7f-0d9102f8bd28.png" align="right">
+
 Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to *accelerate facial recognition and identification*." (Emphasis added.)
 
 As members of the open source community and free software movement who embrace values of freedom, liberty, openness, sharing, mutual aid, and general human kindness, we are horrified by and strongly object to the Trump administration's policies of detainment, denaturalization, deportation, and family separation as carried out by ICE.
