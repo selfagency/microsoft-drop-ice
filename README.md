@@ -28,6 +28,7 @@ Signed,
 1.  Aakash Sigdel [@aakashsigdel](https://github.com/aakashsigdel)
 1.  Aaron Lichtman [@alichtman](https://github.com/alichtman)
 1.  Abram Stern [@aphid](https://github.com/aphid)
+1.  Absolutely Sweatie [@absolutelysweatie](https://github.com/absolutelysweatie) (React)
 1.  Adam Yi [@adamyi](https://github.com/adamyi)
 1.  Adrien Antoine [@adriantoine](https://github.com/adriantoine)
 1.  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
