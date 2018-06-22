@@ -84,6 +84,7 @@ Signed,
 1.  Jamie King [@king0120](https://github.com/king0120)
 1.  Jan Peer [@JPeer264](https://github.com/JPeer264)
 1.  Jason Palmer [@palmerj3](https://github.com/palmerj3)
+1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 1.  Jeremy Low [@jeremylow](https://github.com/jeremylow)
 1.  Jim Kang [@deathmtn](https://github.com/jimkang)
@@ -149,6 +150,10 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
+1.  Mike Eng [@mrengy](https://github.com/mrengy)
+1.  Firat Deniz [@fdeniz](https://github.com/fdeniz)
+1.  Tevye Cowan [@tevyefegeleh](https://github.com/tevyefegeleh)
+1.  Ben Nelson [@nelsonblaha](https://github.com/nelsonblaha)
 
 > **Notice:** Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.
 
