@@ -40,6 +40,7 @@ Signed,
 1.  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 1.  Allen Hai [@coetry](https://github.com/coetry)
 1.  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
+1.  Andreas Basurto [@nitrohorse](https://github.com/nitrohorse)
 1.  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
 1.  Andrew Wasson [@awasson](https://github.com/awasson)
 1.  Andy Galasso [@agalasso](https://github.com/agalasso)
