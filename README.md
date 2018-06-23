@@ -215,6 +215,7 @@ Signed,
 1.  Victor Saiz [@vectorsize](https://github.com/vectorsize)
 1.  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 1.  vøid [@makmm](https://github.com/makmm)
+1.  wencan [@wencan](https://github.com/wencan)
 1.  Wilfrid "Zeepington" G.[@zeepington](https://github.com/zeepington)
 1.  Will [@qubist](https://github.com/qubist)
 1.  Worms [@MarcoWorms](https://github.com/MarcoWorms)
@@ -224,6 +225,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  wencan [@wencan](https://github.com/wencan)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
