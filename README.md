@@ -64,6 +64,7 @@ Signed,
 1.  Celti Burroughs [@Celti](https://github.com/Celti)
 1.  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 1.  Chris Murphy [@mdhornet90](https://github.com/mdhornet90)
+1.  Christian Grimberg [@ChristianGrimberg](https://github.com/ChristianGrimberg)
 1.  Christian Petersen [@fnky](https://github.com/fnky)
 1.  coolreader18 [@coolreader18](https://github.com/coolreader18)
 1.  Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
