@@ -154,6 +154,7 @@ Signed,
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
 1.  Maria Peniche [@inPen](https://github.com/InPen)
 1.  Margeaux Spring [@cheapwebmonkey](https://github.com/cheapwebmonkey)
+1.  Mario García [@mattdark](https://github.com/mattdark)
 1.  Mark Busenitz [@mucbuc](https://github.com/mucbuc)
 1.  Mark Rabey [@MarkRabey](https://github.com/MarkRabey)
 1.  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
