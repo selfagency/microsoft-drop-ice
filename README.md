@@ -68,6 +68,7 @@ Signed,
 1.  Chris Murphy [@mdhornet90](https://github.com/mdhornet90)
 1.  Christian Grimberg [@ChristianGrimberg](https://github.com/ChristianGrimberg)
 1.  Christian Petersen [@fnky](https://github.com/fnky)
+1.  Connor Bär [@connor-baer](https://github.com/connor-baer)
 1.  coolreader18 [@coolreader18](https://github.com/coolreader18)
 1.  Cristhian Echeverry [@CristhianEcheverry](https://github.com/CristhianEcheverry)
 1.  Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
