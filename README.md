@@ -74,6 +74,7 @@ Signed,
 1.  Dang Van Thanh [@dangvanthanh](https://github.com/dangvanthanh)
 1.  Daniel Bennett [@danBennettDev](https://github.com/danbennettdev)
 1.  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
+1.  Daniël W. Crompton [@webhat](https://github.com/webhat)
 1.  Daniel Dyssegaard Kallick [@keevie](https://github.com/keevie)
 1.  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 1.  Daniel Winterstein [@winterstein](https://github.com/winterstein)
