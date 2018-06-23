@@ -53,6 +53,7 @@ Signed,
 1.  Arthur Guiot [@arguiot](https://github.com/arguiot)
 1.  Aung Naing Oo [@o92](https://github.com/o92)
 1.  Axel Stoll [@saufbernd](https://github.com/saufbernd)
+1.  Beatriz [@beatrizelena](https://github.com/beatrizelena)
 1.  Ben Nelson [@nelsonblaha](https://github.com/nelsonblaha)
 1.  Ben Wiley [@benwiley4000](https://github.com/benwiley4000)
 1.  Benji Bilheimer [@benjibee](https://github.com/benjibee)
@@ -208,6 +209,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Beatriz [@beatrizelena](https://github.com/beatrizelena)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
