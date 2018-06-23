@@ -186,6 +186,7 @@ Signed,
 1.  Titus Wormer [@wooorm](https://github.com/wooorm)
 1.  Tobi Schäfer [@p3k](https://github.com/p3k)
 1.  Tom Lazar [@tomlazar](https://github.com/tomlazar)
+1.  Tommy Kelly [@tomkel](https://github.com/tomkel)
 1.  Tomas Lycken [@tlycken](https://github.com/tlycken)
 1.  Tucker Boniface [@heyitswither](https://github.com/heyitswither)
 1.  Tyler Thompson [@tptee](https://github.com/tptee)
