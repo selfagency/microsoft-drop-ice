@@ -84,6 +84,7 @@ Signed,
 1.  Dessalines [@Dessalines](https:///github.com/dessalines)
 1.  Diego Piedra [@diegojopiedra](https://github.com/diegojopiedra)
 1.  Don Bellenger [@donnotron666](https://github.com/donnotron666)
+1.  Eduardo Aguad [@eaguad1337](https://github.com/eaguad1337)
 1.  Elijah Cruz [@elijahcruz12](https://github.com/elijahcruz12)
 1.  Elin Angelov [@zetxx](https://github.com/zetxx)
 1.  Emanuele Stoppa [@ematipico](https://github.com/ematipico)
