@@ -218,6 +218,7 @@ Signed,
 1.  Victor Saiz [@vectorsize](https://github.com/vectorsize)
 1.  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 1.  vøid [@makmm](https://github.com/makmm)
+1.  wencan [@wencan](https://github.com/wencan)
 1.  Wilfrid "Zeepington" G.[@zeepington](https://github.com/zeepington)
 1.  Will [@qubist](https://github.com/qubist)
 1.  Worms [@MarcoWorms](https://github.com/MarcoWorms)
