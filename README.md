@@ -176,6 +176,7 @@ Signed,
 1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
+1.  Roshan [@roshbhatia](https://github.com/roshbhatia)
 1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
 1.  Sam Lloyd [@binchicken](https://github.com/binchicken)
 1.  Sarah Majors [@sfmajors373](https://github.com/sfmajors373)
@@ -214,6 +215,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Roshan [@roshbhatia](https://github.com/roshbhatia)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
