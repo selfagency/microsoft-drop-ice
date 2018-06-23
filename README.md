@@ -1,14 +1,13 @@
-# Microsoft: Drop ICE!
+![ice immigration and customs enforcement powered by microsoft](https://user-images.githubusercontent.com/2541728/41804591-60c287d8-7667-11e8-8d48-7b9ba517a7d1.png)
 
-![ice-immigration-raids-deportation-arrests-donald-trump-002-1487035304](https://user-images.githubusercontent.com/2541728/41786900-be6a5df0-7614-11e8-9293-752485ce56d9.png)
+<p align="center"><strong>In The Press</strong><br /><a href="https://gizmodo.com/github-coders-to-microsoft-cut-ties-with-ice-or-well-t-1827032609">Gizmodo</a> · <a href="https://www.cnet.com/news/tell-microsoft-to-drop-ice-as-a-client-or-lose-us-as-github-users-say-coders/">cnet</a> · <a href="https://www.pcmag.com/commentary/362012/microsoft-ice-and-the-trouble-with-technology-being-neutr">PC Magazine</a> · <a href="https://www.themarysue.com/github-coders-pressure-microsoft-to-end-ice-contract/">The Mary Sue</a> · <a href="https://bgr.com/2018/06/22/trump-children-policy-ice-criticism-amazon-microsoft/">BGR</a> · <a href="https://fossbytes.com/github-coder-letter-warning-microsoft-ice-partnership/">FOSSBytes</a><br /><a href="https://www.theinquirer.net/inquirer/news/3034641/github-devs-warn-microsoft-get-that-contract-on-ice-or-lose-us">The Inquirer</a> · <a href="https://streetsignals.com/microsoft-to-cut-ties-with-ice">Street Signals</a> · <a href="https://www.business-standard.com/article/news-ani/github-coders-threaten-to-leave-microsoft-over-ice-contract-118062200404_1.html">Business Standard</a> · <a href="https://www.outlookindia.com/newsscroll/github-coders-threaten-to-leave-microsoft-over-ice-contract/1335170">Outlook</a></p>
 
-**Tell Microsoft to drop ICE as a client or lose us as GitHub users**
+<h1 align="center">Microsoft: Drop ICE!</h1>
+<p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong></p>
 
 Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to *accelerate facial recognition and identification*." (Emphasis added.)
 
 As members of the open source community and free software movement who embrace values of freedom, liberty, openness, sharing, mutual aid, and general human kindness, we are horrified by and strongly object to the Trump administration's policies of detainment, denaturalization, deportation, and family separation as carried out by ICE.
-
-<img width="200" alt="msice" src="https://user-images.githubusercontent.com/2541728/41785088-80de504a-760f-11e8-8e7f-0d9102f8bd28.png" align="right">
 
 With Microsoft's acquisition of GitHub, many in the GitHub community were fearful of what new ownership from a company once openly hostile to open source would spell for the future of GitHub, and [many of those people](https://www.bleepingcomputer.com/news/technology/gitlab-sees-huge-traffic-spike-after-news-of-microsoft-buying-github/) chose to [leave the site](https://docs.gitlab.com/ee/user/project/import/github.html) rather than entrust Microsoft with their software. Those of us who remained, because we were willing to give Microsoft a chance to become a steward of the open source movement, will not continue to do so should Microsoft continue to abet the trampling of human and civil rights by this administration and its law enforcement agencies.
 
