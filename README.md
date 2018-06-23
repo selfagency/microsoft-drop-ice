@@ -124,6 +124,7 @@ Signed,
 1.  Jibran Shaikh [@js-d-coder](https://github.com/js-d-coder)
 1.  Jim Kang [@deathmtn](https://github.com/jimkang)
 1.  Jiří Špác [@capaj](https://github.com/capaj)
+1.  Joan Mira [@gazpachu](https://github.com/gazpachu)
 1.  John Hann [@unscriptable](https://github.com/unscriptable)
 1.  Jon Culver [@bahoo](http://github.com/bahoo)
 1.  Jon Kuperman [@jkup](https://github.com/jkup)
