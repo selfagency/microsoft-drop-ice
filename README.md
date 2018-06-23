@@ -190,6 +190,7 @@ Signed,
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 1.  Roshan [@roshbhatia](https://github.com/roshbhatia)
+1.  Ryan P. C. McQuen [@ryanpcmcquen](https://github.com/ryanpcmcquen)
 1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
 1.  Sam Lloyd [@binchicken](https://github.com/binchicken)
 1.  Sarah Majors [@sfmajors373](https://github.com/sfmajors373)
