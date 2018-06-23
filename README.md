@@ -173,6 +173,7 @@ Signed,
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
+1.  Pascal Jufer [@paescuj](https://github.com/paescuj)
 1.  Pat Li [@xueyuanl](https://github.com/xueyuanl)
 1.  Patrick Curl [@patrickcurl](https://github.com/patrickcurl)
 1.  Paul Nolan [@close-paren](https://github.com/close-paren)
