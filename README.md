@@ -173,6 +173,7 @@ Signed,
 1.  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 1.  Raymond Cano [@rayraycano](https://github.com/rayraycano)
 1.  Remus Buzatu [@rbuzatu90](https://github.com/rbuzatu90/)
+1.  Rex Low [@rexlow](https://github.com/rexlow)
 1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
@@ -214,6 +215,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Rex Low [@rexlow](https://github.com/rexlow)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
