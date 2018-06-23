@@ -232,5 +232,6 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
+1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
