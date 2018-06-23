@@ -69,6 +69,7 @@ Signed,
 1.  coolreader18 [@coolreader18](https://github.com/coolreader18)
 1.  Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
 1.  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
+1.  Dang Van Thanh [@dangvanthanh](https://github.com/dangvanthanh)
 1.  Daniel Bennett [@danBennettDev](https://github.com/danbennettdev)
 1.  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
 1.  Daniel Dyssegaard Kallick [@keevie](https://github.com/keevie)
