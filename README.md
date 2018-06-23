@@ -35,7 +35,7 @@ Signed,
 1.  Adam Yi [@adamyi](https://github.com/adamyi)
 1.  Adrien Antoine [@adriantoine](https://github.com/adriantoine)
 1.  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
-1.  Akil Harris [@akilism] (https://github.com/akilism)
+1.  Akil Harris [@akilism](https://github.com/akilism)
 1.  Akshat Sinha [@tribalmolecule](https://github.com/tribalmolecule)
 1.  Alex [@alexrdz](https://github.com/alexrdz)
 1.  Alex Rapley [@arapl3y](https://github.com/arapl3y)
