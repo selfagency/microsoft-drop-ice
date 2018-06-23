@@ -117,6 +117,7 @@ Signed,
 1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 1.  Jeremy Low [@jeremylow](https://github.com/jeremylow)
+1.  Jerry Liang [@jeriscc](https://github.com/jeriscc)
 1.  Jibran Shaikh [@js-d-coder](https://github.com/js-d-coder)
 1.  Jim Kang [@deathmtn](https://github.com/jimkang)
 1.  Jiří Špác [@capaj](https://github.com/capaj)
