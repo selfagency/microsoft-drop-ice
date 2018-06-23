@@ -214,6 +214,7 @@ Signed,
 1.  Tucker Boniface [@heyitswither](https://github.com/heyitswither)
 1.  Tyler Thompson [@tptee](https://github.com/tptee)
 1.  Umayah Abdennabi [@sudohalt](https://github.com/sudohalt)
+1.  Ursin Filli [@ursinn](https://github.com/ursinn)
 1.  Valentin Iovene [@tgy](https://github.com/tgy)
 1.  Victor Saiz [@vectorsize](https://github.com/vectorsize)
 1.  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
