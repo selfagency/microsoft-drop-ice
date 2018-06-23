@@ -162,6 +162,7 @@ Signed,
 1.  Mikkel Malmberg [@mikker](https://github.com/mikker)
 1.  Moses Wynn [@moseswynn](https://github.com/moseswynn)
 1.  Murilo Prestes [@maclovin](https://github.com/maclovin)
+1.  Nagesh Podilapu [@H4rryp0tt3r](https://github.com/H4rryp0tt3r)
 1.  Nate Sutton [@nmsutton](https://github.com/nmsutton)
 1.  Naveen Kumar Sangi [@nkprince007](https://github.com/nkprince007)
 1.  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
@@ -224,6 +225,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Nagesh Podilapu [@H4rryp0tt3r](https://github.com/H4rryp0tt3r)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
