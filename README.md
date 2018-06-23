@@ -53,6 +53,7 @@ Signed,
 1.  Arthur Guiot [@arguiot](https://github.com/arguiot)
 1.  Aung Naing Oo [@o92](https://github.com/o92)
 1.  Axel Stoll [@saufbernd](https://github.com/saufbernd)
+1.  Beatriz [@beatrizelena](https://github.com/beatrizelena)
 1.  Ben Nelson [@nelsonblaha](https://github.com/nelsonblaha)
 1.  Ben Wiley [@benwiley4000](https://github.com/benwiley4000)
 1.  Benji Bilheimer [@benjibee](https://github.com/benjibee)
