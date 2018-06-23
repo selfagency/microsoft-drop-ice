@@ -122,6 +122,7 @@ Signed,
 1.  Jordan Danford [@jdanford](https://github.com/jdanford)
 1.  Josh Waller [@mdxprograms](https://github.com/mdxprograms)
 1.  Joshua Cook [@joshuacook](https://github.com/joshuacook)
+1.  J Kelsey-De France [@onoffleftright](https://github.com/onoffleftright)
 1.  Ken Godoy [@kgodoy](https://github.com/kgodoy)
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
 1.  Kevin Lalka [@lalka-workco](https://github.com/lalka-workco)
