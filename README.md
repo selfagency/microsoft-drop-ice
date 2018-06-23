@@ -138,6 +138,7 @@ Signed,
 1.  J Kelsey-De France [@onoffleftright](https://github.com/onoffleftright)
 1.  Ken Godoy [@kgodoy](https://github.com/kgodoy)
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
+1.  Ken Erwin [@devopslibrary](https://github.com/DevOpsLibrary) (DevOpsLibrary.com)
 1.  Kevin Lalka [@lalka-workco](https://github.com/lalka-workco)
 1.  Kevin Milner [@codeslingerMalthius](https://github.com/codeslingerMalthius)
 1.  Konstantin K. [@kkostov](https://github.com/kkostov)
