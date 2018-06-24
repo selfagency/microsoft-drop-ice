@@ -74,6 +74,7 @@ Signed,
 1.  Cristhian Echeverry [@CristhianEcheverry](https://github.com/CristhianEcheverry)
 1.  Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
 1.  Dale Weiler [@graphitemaster](https://github.com/graphitemaster)
+1.  Dan Moore [@danzeeeman](https://github.com/danzeeeman)
 1.  Dang Van Thanh [@dangvanthanh](https://github.com/dangvanthanh)
 1.  Daniel Bennett [@danBennettDev](https://github.com/danbennettdev)
 1.  Daniel Carosone [@dcarosone](https://github.com/dcarosone)
@@ -234,6 +235,5 @@ Signed,
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Dan Moore [@danzeeeman](https://github.com/danzeeeman)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
