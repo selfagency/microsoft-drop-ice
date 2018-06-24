@@ -146,6 +146,7 @@ Signed,
 1.  Joshua Achorn [@superp00t](https://github.com/superp00t)
 1.  Josh Waller [@mdxprograms](https://github.com/mdxprograms)
 1.  Joshua Cook [@joshuacook](https://github.com/joshuacook)
+1.  Juanjo Salvador [@JuanjoSalvador](https://github.com/JuanjoSalvador)
 1.  J Kelsey-De France [@onoffleftright](https://github.com/onoffleftright)
 1.  Karina Romero [@KarinaRomero](https://github.com/KarinaRomero)
 1.  Ken Godoy [@kgodoy](https://github.com/kgodoy)
@@ -253,6 +254,5 @@ Signed,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Juanjo Salvador [@JuanjoSalvador](https://github.com/JuanjoSalvador)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
