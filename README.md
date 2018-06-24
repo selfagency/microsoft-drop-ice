@@ -100,6 +100,7 @@ Signed,
 1.  Elijah Cruz [@elijahcruz12](https://github.com/elijahcruz12)
 1.  Elin Angelov [@zetxx](https://github.com/zetxx)
 1.  Emanuele Stoppa [@ematipico](https://github.com/ematipico)
+1.  Eric Gjertsen [@ericgj](https://github.com/ericgj)
 1.  Eric Sandoval [@emsando](https://github.com/emsando)
 1.  Eric Schultz [@ericschultz](https://github.com/ericschultz)
 1.  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
