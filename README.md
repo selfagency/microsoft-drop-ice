@@ -61,6 +61,7 @@ Signed,
 1.  Benny Franco [@BennyFranco](https://github.com/BennyFranco)
 1.  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
 1.  Brian Yang [@brianyang](https://github.com/brianyang)
+1.  Bruno Jardon [@bjardon](https://github.com/bjardon)
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
 1.  Celti Burroughs [@Celti](https://github.com/Celti)
