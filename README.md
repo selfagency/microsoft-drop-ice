@@ -201,6 +201,7 @@ Signed,
 1.  Rex Low [@rexlow](https://github.com/rexlow)
 1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
+1.  Robert White [@r2453](https://github.com/r2453)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 1.  Roshan [@roshbhatia](https://github.com/roshbhatia)
 1.  Ryan P. C. McQuen [@ryanpcmcquen](https://github.com/ryanpcmcquen)
