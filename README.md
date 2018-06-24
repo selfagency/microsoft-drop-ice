@@ -136,6 +136,7 @@ Signed,
 1.  Jon Kuperman [@jkup](https://github.com/jkup)
 1.  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
 1.  Jordan Danford [@jdanford](https://github.com/jdanford)
+1.  Jordy Cuan [@jordycuan](https://github.com/jordycuan)
 1.  Joshua Achorn [@superp00t](https://github.com/superp00t)
 1.  Josh Waller [@mdxprograms](https://github.com/mdxprograms)
 1.  Joshua Cook [@joshuacook](https://github.com/joshuacook)
