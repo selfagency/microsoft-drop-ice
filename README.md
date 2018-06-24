@@ -90,6 +90,7 @@ Signed,
 1.  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 1.  Daniel Winterstein [@winterstein](https://github.com/winterstein)
 1.  Danilo Guanabara [@danguafer](https://github.com/danguafer)
+1.  Darwin Correa [@dacopan](https://github.com/dacopan)
 1.  David Seidenberg [@davidseid](https://github.com/davidseid)
 1.  David T. Nguyen [@DavidTNguyen](https://github.com/DavidTNguyen)
 1.  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
@@ -253,6 +254,5 @@ Signed,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Darwin Correa [@dacopan](https://github.com/dacopan)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
