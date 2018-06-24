@@ -118,6 +118,7 @@ Signed,
 1.  Guido [@schugDev](https://github.com/schugDev)
 1.  gusfravo [@gusfravo](https://github.com/gusfravo)
 1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
+1.  Haythem Tlili [@Haythem](https://github.com/Haythem)
 1.  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 1.  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
