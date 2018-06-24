@@ -38,6 +38,7 @@ Signed,
 1.  Akil Harris [@akilism](https://github.com/akilism)
 1.  Akshat Sinha [@tribalmolecule](https://github.com/tribalmolecule)
 1.  Alex [@alexrdz](https://github.com/alexrdz)
+1.  Alex Pardo [@alex-pardo](https://github.com/alex-pardo)
 1.  Alex Rapley [@arapl3y](https://github.com/arapl3y)
 1.  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 1.  Allen Hai [@coetry](https://github.com/coetry)
