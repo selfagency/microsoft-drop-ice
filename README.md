@@ -123,6 +123,7 @@ Signed,
 1.  Jamie King [@king0120](https://github.com/king0120)
 1.  Jan Peer [@JPeer264](https://github.com/JPeer264)
 1.  Jan Riemer [@janriemer](https://github.com/janriemer)
+1.  Jane Miceli [@janemiceli](https://github.com/janemiceli)
 1.  Jasmine Hennessy [@jennessy](https://github.com/jennessy)
 1.  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
