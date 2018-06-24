@@ -74,6 +74,7 @@ Signed,
 1.  Christian Petersen [@fnky](https://github.com/fnky)
 1.  Connor Bär [@connor-baer](https://github.com/connor-baer)
 1.  coolreader18 [@coolreader18](https://github.com/coolreader18)
+1.  Cristian Alanis [@snake404](https://github.com/snake404)
 1.  Cristián Vásquez Parga [@aepnea](https://github.com/aepnea)
 1.  Cristhian Echeverry [@CristhianEcheverry](https://github.com/CristhianEcheverry)
 1.  Daksh Miglani [@DakshMiglani](https://github.com/DakshMiglani)
