@@ -148,6 +148,7 @@ Signed,
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
 1.  Ken Erwin [@devopslibrary](https://github.com/DevOpsLibrary) (DevOpsLibrary.com)
 1.  Kevin Lalka [@lalka-workco](https://github.com/lalka-workco)
+1.	Kevin Lopez [@shadefoundry](https://github.com/shadefoundry)
 1.  Kevin Milner [@codeslingerMalthius](https://github.com/codeslingerMalthius)
 1.  Konstantin K. [@kkostov](https://github.com/kkostov)
 1.  Kyle Gay [@rkyleg](https://github.com/rkyleg)
