@@ -112,6 +112,7 @@ Signed,
 1.  Firat Deniz [@fdeniz](https://github.com/fdeniz)
 1.  Flávio Caetano [@fjcaetano](https://github.com/fjcaetano)
 1.  Frank Bültge [@bueltge](https://github.com/bueltge)
+1.  Frederick Mejia [@fjdevel](https://github.com/fjdevel)
 1.  Gavin Morgan [@quavmo](https://github.com/quavmo)
 1.  Gido [@gidoBOSSftw5731](https://github.com/gidobossftw5731)
 1.  Good-Loop [@good-loop](https://github.com/good-loop)
