@@ -215,6 +215,7 @@ Signed,
 1.  Remus Buzatu [@rbuzatu90](https://github.com/rbuzatu90/)
 1.  Rex Low [@rexlow](https://github.com/rexlow)
 1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
+1.  Robert James Gabriel [@RobertJGabriel](https://github.com/RobertJGabriel)(OpenDyslexic, PWA Awards)
 1.  Robert Fridzema [@qubist](https://github.com/fridzema)
 1.  Robert White [@r2453](https://github.com/r2453)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
