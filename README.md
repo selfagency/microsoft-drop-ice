@@ -169,6 +169,7 @@ Signed,
 1.  Maaz Khan [@maazkhan](https://github.com/maazkhan)
 1.  Manuel Sánchez [@manasv](https://github.com/manasv)
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
+1.  Mark A. Lane [#FooCrypt](https://github.com/FooCrypt)
 1.  Maria Peniche [@inPen](https://github.com/InPen)
 1.  Margeaux Spring [@cheapwebmonkey](https://github.com/cheapwebmonkey)
 1.  Mario García [@mattdark](https://github.com/mattdark)
