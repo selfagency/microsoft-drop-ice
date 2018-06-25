@@ -112,6 +112,7 @@ Signed/Firmados,
 1.  David T. Nguyen [@DavidTNguyen](https://github.com/DavidTNguyen)
 1.  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
 1.  Dessalines [@Dessalines](https:///github.com/dessalines)
+1.  Dian Fay [@dmfay](https://github.com/dmfay)
 1.  Diego Piedra [@diegojopiedra](https://github.com/diegojopiedra)
 1.  Diego Rojas [@diemarc](https://github.com/diemarc)
 1.  Don Bellenger [@donnotron666](https://github.com/donnotron666)
