@@ -17,7 +17,7 @@ We call on Microsoft to end its relationship with ICE and any federal agencies e
 <h1 align="center">Microsoft: Deja a ICE!</h1>
 <p align="center"><strong>Dile a Microsoft que deje ICE como cliente o nos perdera como usuarios de GitHub</strong></p>
 
-A principios de este año, Microsoft [anunció orgullosamente](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) que estaba trabajando con Inmigración y Control de Aduanas (ICE) para "ofrecer servicios como identidad y acceso basados ​​en la nube" para "ayudar a los empleados a tomar decisiones mucho más informadas rápidamente" y "utilizar capacidades del aprendizaje profundo" para acelerar el reconocimiento facial y la identificación ". (Énfasis añadido.)
+A principios de este año, Microsoft [anunció orgullosamente](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) que estaba trabajando con Inmigración y Control de Aduanas (ICE) para "ofrecer servicios como identidad y acceso basados ​​en la nube" para "ayudar a los empleados a tomar decisiones mucho más informadas rápidamente" y "utilizar capacidades del aprendizaje profundo" para *acelerar el reconocimiento facial y la identificación*". (Énfasis añadido.)
 
 Como miembros de la comunidad de código abierto y del movimiento de software libre que adoptan los valores de libertad, apertura, intercambio, ayuda mutua y bondad humana en general, nos horrorizamos y nos oponemos firmemente a las políticas de detención, desnaturalización, deportación de la administración Trump. y a la separación de las familias según lo llevado a cabo por ICE.
 
@@ -25,16 +25,13 @@ Con la adquisición de GitHub por parte de Microsoft, muchos en la comunidad de 
 
 Hacemos un llamado a Microsoft para que termine su relación con ICE y cualquier agencia federal involucrada en hacer cumplir las políticas crueles de esta administración, que está destruyendo familias y encarcelando a solicitantes de asilo, residentes indocumentados a largo plazo e incluso ciudadanos naturalizados bajo amenaza de deportación. O simplemente llevaremos nuestros proyectos a otro lado.
 
-| ADD YOUR NAME |
+| ADD YOUR NAME / AGREGA TU NOMBRE |
 | :--- |
-| **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation. |
+| **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation.
+**[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo para fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación.|
 
-| AGREGA TU NOMBRE |
-| :--- |
-| **[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo para fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación. |
 
-Signed
-Firmados
+Signed/Firmados,
 
 1.  Lea Verou [@leaverou](https://github.com/leaverou) (MIT, W3C CSS Working Group, Prism, Mavo, Dabblet)
 1.  Sindre Sorhus [@sindresorhus](https://github.com/sindresorhus) (AVA, XO, Awesome)
