@@ -55,6 +55,7 @@ Signed,
 1.  Antonopoulos Georgios [@AntGeorge](https://github.com/AntGeorge)
 1.  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
 1.  Arthur Guiot [@arguiot](https://github.com/arguiot)
+1.  ArashMidos [@arshiamidos](https://github.com/Arshiamidos)
 1.  Aung Naing Oo [@o92](https://github.com/o92)
 1.  Axel Stoll [@saufbernd](https://github.com/saufbernd)
 1.  Ban Min Kyoz [@banminkyoz](https://github.com/banminkyoz)
