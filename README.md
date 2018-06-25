@@ -91,6 +91,7 @@ Signed,
 1.  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 1.  Daniel Winterstein [@winterstein](https://github.com/winterstein)
 1.  Danilo Guanabara [@danguafer](https://github.com/danguafer)
+1.  Darwin Correa [@dacopan](https://github.com/dacopan)
 1.  David Seidenberg [@davidseid](https://github.com/davidseid)
 1.  David T. Nguyen [@DavidTNguyen](https://github.com/DavidTNguyen)
 1.  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
