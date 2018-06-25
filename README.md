@@ -173,6 +173,7 @@ Signed,
 1.  Lowell Kissling [@lrkissling](https://github.com/lrkissling)
 1.  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
 1.  Maaz Khan [@maazkhan](https://github.com/maazkhan)
+1.  Malcolm Laing [@montezume](https://github.com/montezume)
 1.  Manuel Sánchez [@manasv](https://github.com/manasv)
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
 1.  Maria Peniche [@inPen](https://github.com/InPen)
