@@ -3,8 +3,8 @@
 <p align="center"><strong>In The Press</strong><br /><a href="https://gizmodo.com/github-coders-to-microsoft-cut-ties-with-ice-or-well-t-1827032609" target="_new">Gizmodo</a> · <a href="https://www.cnet.com/news/tell-microsoft-to-drop-ice-as-a-client-or-lose-us-as-github-users-say-coders/" target="_new">cnet</a> · <a href="https://www.seattlepi.com/business/tech/article/Github-to-Mircosoft-Cut-ties-with-ICE-or-we-ll-13015420.php" target="_new">Seattle PI</a> · <a href="https://www.pcmag.com/commentary/362012/microsoft-ice-and-the-trouble-with-technology-being-neutr" target="_new">PC Magazine</a> · <a href="https://www.themarysue.com/github-coders-pressure-microsoft-to-end-ice-contract/" target="_new">The Mary Sue</a> · <a href="https://bgr.com/2018/06/22/trump-children-policy-ice-criticism-amazon-microsoft/" target="_new">BGR</a> · <a href="https://fossbytes.com/github-coder-letter-warning-microsoft-ice-partnership/" target="_new">FOSSBytes</a><br /><a href="https://www.theinquirer.net/inquirer/news/3034641/github-devs-warn-microsoft-get-that-contract-on-ice-or-lose-us" target="_new">The Inquirer</a> · <a href="https://streetsignals.com/microsoft-to-cut-ties-with-ice" target="_new">Street Signals</a> · <a href="https://www.business-standard.com/article/news-ani/github-coders-threaten-to-leave-microsoft-over-ice-contract-118062200404_1.html" target="_new">Business Standard</a> · <a href="https://www.outlookindia.com/newsscroll/github-coders-threaten-to-leave-microsoft-over-ice-contract/1335170" target="_new">Outlook</a><br /><em>Media Inquiries? <a href="mailto&#58;d&#97;%6Eie%&#54;&#67;&#64;s&#101;%6C&#102;&#37;2&#69;a&#103;%65n%63&#37;&#55;9">Email</a></em></p>
 
 ---
-<h1 align="center">Microsoft: Drop ICE!</h1>
-<p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong></p>
+<h1 align="center">Microsoft: Drop ICE! / Microsoft: Deja a ICE!</h1>
+<p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong><br /><strong>Dile a Microsoft que deje ICE como cliente o nos perdera como usuarios de GitHub</strong></p>
 
 Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to *accelerate facial recognition and identification*." (Emphasis added.)
 
@@ -14,8 +14,7 @@ With Microsoft's acquisition of GitHub, many in the GitHub community were fearfu
 
 We call on Microsoft to end its relationship with ICE and any federal agencies engaged in enforcing the cruel policies of this administration, which is destroying families and jailing asylum seekers, undocumented long-term residents, and even naturalized citizens under threat of deportation. Or, we will simply take our projects elsewhere.
 
-<h1 align="center">Microsoft: Deja a ICE!</h1>
-<p align="center"><strong>Dile a Microsoft que deje ICE como cliente o nos perdera como usuarios de GitHub</strong></p>
+---
 
 A principios de este año, Microsoft [anunció orgullosamente](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) que estaba trabajando con Inmigración y Control de Aduanas (ICE) para "ofrecer servicios como identidad y acceso basados ​​en la nube" para "ayudar a los empleados a tomar decisiones mucho más informadas rápidamente" y "utilizar capacidades del aprendizaje profundo" para *acelerar el reconocimiento facial y la identificación*". (Énfasis añadido.)
 
@@ -28,7 +27,7 @@ Hacemos un llamado a Microsoft para que termine su relación con ICE y cualquier
 | ADD YOUR NAME / AGREGA TU NOMBRE |
 | :--- |
 | **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation.
-**[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo para fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación.|
+**[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo para fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación.|
 
 
 Signed/Firmados,
