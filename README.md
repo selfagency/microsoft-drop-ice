@@ -230,6 +230,7 @@ Signed,
 1.  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
 1.  Shengming Yuan [@ssysm](https://github.com/ssysm)
+1.  Snowden Fu [@fuzheng1998](https://github.com/fuzheng1998)
 1.  Stefen Wakefield [@xstefen](https://github.com/xstefen)
 1.  Stephen Rivas [@sprjr](https://github.com/sprjr)
 1.  Sumit Sen [@sumit1sen](https://github.com/sumit1sen)
