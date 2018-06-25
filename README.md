@@ -127,6 +127,7 @@ Signed,
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 1.  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
 1.  Igor Buyanov [@artifex404](https://github.com/artifex404)
+1.  interpeix [@interpeix](https://github.com/interpeix)
 1.  Isaiah Joshua M. Samonte [@xemasiv](https://github.com/xemasiv)
 1.  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 1.  Jad Sarout [@xananax](https://github.com/Xananax/)
