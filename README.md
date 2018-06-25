@@ -129,6 +129,7 @@ Signed,
 1.  Jacob Beard [@jbeard4](https://github.com/jbeard4)
 1.  Jad Sarout [@xananax](https://github.com/Xananax/)
 1.  Jamie King [@king0120](https://github.com/king0120)
+1.  Jamie Wright [@jwright](https://github.com/jwright)
 1.  Jan Peer [@JPeer264](https://github.com/JPeer264)
 1.  Jan Riemer [@janriemer](https://github.com/janriemer)
 1.  Jane Miceli [@janemiceli](https://github.com/janemiceli)
