@@ -229,6 +229,7 @@ Signed/Firmados,
 1.  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
 1.  Randolf Richardson [@randolf](https://github.com/randolf)
 1.  Raymond Cano [@rayraycano](https://github.com/rayraycano)
+1.  Rein Henrichs [@reinh](https://github.com/reinh)
 1.  Remus Buzatu [@rbuzatu90](https://github.com/rbuzatu90/)
 1.  Rex Low [@rexlow](https://github.com/rexlow)
 1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
