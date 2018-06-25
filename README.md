@@ -175,6 +175,7 @@ Signed/Firmados,
 1.  Josh Waller [@mdxprograms](https://github.com/mdxprograms)
 1.  Joshua Cook [@joshuacook](https://github.com/joshuacook)
 1.  Juanjo Salvador [@JuanjoSalvador](https://github.com/JuanjoSalvador)
+1.  Julee Burdekin [@theship](https://github.com/theship)
 1.  J Kelsey-De France [@onoffleftright](https://github.com/onoffleftright)
 1.  Karina Romero [@KarinaRomero](https://github.com/KarinaRomero)
 1.  Ken Godoy [@kgodoy](https://github.com/kgodoy)
