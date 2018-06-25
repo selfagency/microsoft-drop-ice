@@ -75,6 +75,7 @@ Signed/Firmados,
 1.  Axel Stoll [@saufbernd](https://github.com/saufbernd)
 1.  Ban Min Kyoz [@banminkyoz](https://github.com/banminkyoz)
 1.  Beatriz [@beatrizelena](https://github.com/beatrizelena)
+1.  Ben Allen [@thebenallen](https://github.com/thebenallen)
 1.  Ben Nelson [@nelsonblaha](https://github.com/nelsonblaha)
 1.  Ben Wiley [@benwiley4000](https://github.com/benwiley4000)
 1.  Benji Bilheimer [@benjibee](https://github.com/benjibee)
