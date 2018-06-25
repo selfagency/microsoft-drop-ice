@@ -184,6 +184,7 @@ Signed/Firmados,
 1.  Kyle Gay [@rkyleg](https://github.com/rkyleg)
 1.  Kyle Holzinger [@kyleholzinger](https://github.com/kyleholzinger)
 1.  Le Minh Tri [@ansidev](https://github.com/ansidev)
+1.  Len Smith [@ignu](https://github.com/ignu)
 1.  lfuelling [@lfuelling](https://github.com/lfuelling)
 1.  Libby Horacek [@emhoracek](https://github.com/emhoracek)
 1.  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
