@@ -195,6 +195,7 @@ Signed,
 1.  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 1.  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
+1.  Noah Hall [@nthall](https://github.com/nthall)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
 1.  Pascal Jufer [@paescuj](https://github.com/paescuj)
