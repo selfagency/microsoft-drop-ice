@@ -279,6 +279,7 @@ Signed/Firmados,
 1.  Ursin Filli [@ursinn](https://github.com/ursinn)
 1.  Valentin Iovene [@tgy](https://github.com/tgy)
 1.  Victor Saiz [@vectorsize](https://github.com/vectorsize)
+1.  Viktor Kuroljov [@viktor-ku](https://github.com/viktor-ku)
 1.  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 1.  vøid [@makmm](https://github.com/makmm)
 1.  wencan [@wencan](https://github.com/wencan)
