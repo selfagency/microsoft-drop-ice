@@ -186,6 +186,7 @@ Signed/Firmados,
 1.  Konstantin K. [@kkostov](https://github.com/kkostov)
 1.  Kyle Gay [@rkyleg](https://github.com/rkyleg)
 1.  Kyle Holzinger [@kyleholzinger](https://github.com/kyleholzinger)
+1.  Laura Biss [@laurabiss](https://github.com/LauraBiss)
 1.  Le Minh Tri [@ansidev](https://github.com/ansidev)
 1.  Len Smith [@ignu](https://github.com/ignu)
 1.  lfuelling [@lfuelling](https://github.com/lfuelling)
