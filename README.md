@@ -303,5 +303,6 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
+1.  Marc Vornetran [@marc1404](https://github.com/marc1404)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
