@@ -44,6 +44,7 @@ Signed,
 1.  Alexis Betancourt [@chonchah]
 1.  Allen Hai [@coetry](https://github.com/coetry)
 1.  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
+1.  Amit Cohen [@AmitC1](https://github.com/AmitC1)
 1.  Andreas Basurto [@nitrohorse](https://github.com/nitrohorse)
 1.  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
 1.  Andrew Wasson [@awasson](https://github.com/awasson)
