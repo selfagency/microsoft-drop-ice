@@ -200,6 +200,7 @@ Signed/Firmados,
 1.  Maaz Khan [@maazkhan](https://github.com/maazkhan)
 1.  Malcolm Laing [@montezume](https://github.com/montezume)
 1.  Manuel Sánchez [@manasv](https://github.com/manasv)
+1.  Marc Bria [@marcbria](https://github.com/marcbria)
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
 1.  Maria Peniche [@inPen](https://github.com/InPen)
 1.  Margeaux Spring [@cheapwebmonkey](https://github.com/cheapwebmonkey)
