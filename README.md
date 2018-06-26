@@ -208,6 +208,7 @@ Signed/Firmados,
 1.  Manuel Sánchez [@manasv](https://github.com/manasv)
 1.  Marc Bria [@marcbria](https://github.com/marcbria)
 1.  Marc Hinse [@MadeMyDay](https://github.com/MadeMyDay)
+1.  Marc Vornetran [@marc1404](https://github.com/marc1404)
 1.  Maria Peniche [@inPen](https://github.com/InPen)
 1.  Margeaux Spring [@cheapwebmonkey](https://github.com/cheapwebmonkey)
 1.  Mario García [@mattdark](https://github.com/mattdark)
