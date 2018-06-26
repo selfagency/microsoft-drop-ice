@@ -161,6 +161,7 @@ Signed/Firmados,
 1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 1.  Jean Manzo [@jmanzo](https://github.com/jmanzo)
+1.  Jekabs Milbrets [@jekabsmilbrets](https://github.com/jekabsmilbrets)
 1.  Jeremy Low [@jeremylow](https://github.com/jeremylow)
 1.  Jerry Liang [@jeriscc](https://github.com/jeriscc)
 1.  Jibran Shaikh [@js-d-coder](https://github.com/js-d-coder)
