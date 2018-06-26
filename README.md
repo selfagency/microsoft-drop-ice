@@ -123,6 +123,7 @@ Signed/Firmados,
 1.  Diego Rojas [@diemarc](https://github.com/diemarc)
 1.  Don Bellenger [@donnotron666](https://github.com/donnotron666)
 1.  Eduardo Aguad [@eaguad1337](https://github.com/eaguad1337)
+1.  Eduardo Fernandez [@EduFdezSoy](https://github.com/EduFdezSoy)
 1.  Elijah Cruz [@elijahcruz12](https://github.com/elijahcruz12)
 1.  Elin Angelov [@zetxx](https://github.com/zetxx)
 1.  Emanuele Stoppa [@ematipico](https://github.com/ematipico)
