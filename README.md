@@ -67,6 +67,7 @@ Signed/Firmados,
 1.  Andy Galasso [@agalasso](https://github.com/agalasso)
 1.  Anna Henningsen [@addaleax](https://github.com/addaleax)
 1.  Anthony Maki [@4cm4k1](https://github.com/4cm4k1)
+1.  Antonio Marin [@amarinab](https://github.com/amarinab)
 1.  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard)
 1.  Antonopoulos Georgios [@AntGeorge](https://github.com/AntGeorge)
 1.  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
