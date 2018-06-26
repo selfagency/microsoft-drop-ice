@@ -66,6 +66,7 @@ Signed/Firmados,
 1.  Andy Galasso [@agalasso](https://github.com/agalasso)
 1.  Anna Henningsen [@addaleax](https://github.com/addaleax)
 1.  Anthony Maki [@4cm4k1](https://github.com/4cm4k1)
+1.  Antonio Marin [@amarinab](https://github.com/amarinab)
 1.  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard)
 1.  Antonopoulos Georgios [@AntGeorge](https://github.com/AntGeorge)
 1.  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
@@ -296,6 +297,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Antonio Marin [@amarinab] (https://github.com/amarinab)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
