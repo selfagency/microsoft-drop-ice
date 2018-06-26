@@ -83,6 +83,7 @@ Signed/Firmados,
 1.  Benji Bilheimer [@benjibee](https://github.com/benjibee)
 1.  Benny Franco [@BennyFranco](https://github.com/BennyFranco)
 1.  Bernard Lin [@bernard-lin](https://github.com/bernard-lin)
+1.  Brett Jones [@brettjonesdev](https://github.com/brettjonesdev)
 1.  Brian Yang [@brianyang](https://github.com/brianyang)
 1.  Bruno Jardon [@bjardon](https://github.com/bjardon)
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
@@ -301,6 +302,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Brett Jones [@brettjonesdev](https://github.com/brettjonesdev)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
