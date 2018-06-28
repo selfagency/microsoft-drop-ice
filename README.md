@@ -285,6 +285,7 @@ Signed/Firmados,
 1.  Titus Wormer [@wooorm](https://github.com/wooorm)
 1.  Tiago Dias [@skullwritter](https://github.com/skullwritter)
 1.  Tobi Schäfer [@p3k](https://github.com/p3k)
+1.  Tom Houlé [@tomhoule](https://github.com/tomhoule)
 1.  Tom Lazar [@tomlazar](https://github.com/tomlazar)
 1.  Tommy Kelly [@tomkel](https://github.com/tomkel)
 1.  Tomas Lycken [@tlycken](https://github.com/tlycken)
