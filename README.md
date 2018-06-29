@@ -29,7 +29,7 @@ Hacemos un llamado a Microsoft para que termine su relación con ICE y cualquier
 | ADD YOUR NAME / AGREGA TU NOMBRE |
 | :--- |
 | **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation.
-**[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo para fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación.|
+**[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo al fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación.|
 
 ---
 
