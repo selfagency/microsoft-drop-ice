@@ -176,6 +176,7 @@ Signed/Firmados,
 1.  Jiří Špác [@capaj](https://github.com/capaj)
 1.  Joan Mira [@gazpachu](https://github.com/gazpachu)
 1.  John Hann [@unscriptable](https://github.com/unscriptable)
+1.  johnypony3 [@johnypony3](https://github.com/johnypony3)
 1.  Jon Culver [@bahoo](http://github.com/bahoo)
 1.  Jon Kuperman [@jkup](https://github.com/jkup)
 1.  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
@@ -310,6 +311,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  johnypony3 [@johnypony3](https://github.com/johnypony3)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
