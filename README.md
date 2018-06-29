@@ -150,6 +150,7 @@ Signed/Firmados,
 1.  Haythem Tlili [@Haythem](https://github.com/Haythem)
 1.  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
+1.  Hugo Dutra [@hugodutra](https://github.com/hugodutra)
 1.  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
 1.  Igor Buyanov [@artifex404](https://github.com/artifex404)
 1.  interpeix [@interpeix](https://github.com/interpeix)
@@ -310,6 +311,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Hugo Dutra [@hugodutra](https://github.com/hugodutra)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
