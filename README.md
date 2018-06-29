@@ -90,6 +90,7 @@ Signed/Firmados,
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
 1.  Celti Burroughs [@Celti](https://github.com/Celti)
 1.  Charles Josephs [@darkmyst](https://github.com/darkmyst)
+1.  Charles Kenney [@charliekenney23](https://github.com/charliekenney23)
 1.  Chris W. Burke [@chriswburke](https://github.com/chriswburke)
 1.  Chris Clayman [@kidmillions](https://github.com/kidmillions)
 1.  Chris Matzenbach [@cmatzenbach](https://github.com/cmatzenbach)
