@@ -178,6 +178,7 @@ Signed/Firmados,
 1.  Jiří Špác [@capaj](https://github.com/capaj)
 1.  Joan Mira [@gazpachu](https://github.com/gazpachu)
 1.  John Hann [@unscriptable](https://github.com/unscriptable)
+1.  johnypony3 [@johnypony3](https://github.com/johnypony3)
 1.  Jon Culver [@bahoo](http://github.com/bahoo)
 1.  Jon Kuperman [@jkup](https://github.com/jkup)
 1.  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
