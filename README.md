@@ -191,6 +191,7 @@ Signed/Firmados,
 1.  Julee Burdekin [@theship](https://github.com/theship)
 1.  J Kelsey-De France [@onoffleftright](https://github.com/onoffleftright)
 1.  Karina Romero [@KarinaRomero](https://github.com/KarinaRomero)
+1.  Kathleen Burkhardt [@kburk1997](https://github.com/kburk1997) (Rensselaer Center for Open Source, YACS)
 1.  Ken Godoy [@kgodoy](https://github.com/kgodoy)
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
 1.  Ken Erwin [@devopslibrary](https://github.com/DevOpsLibrary)
