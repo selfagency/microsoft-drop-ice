@@ -4,7 +4,7 @@
 
 ---
 <h1 align="center">Microsoft: Drop ICE! / Microsoft: Deja a ICE!</h1>
-<p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong><br /><strong>Dile a Microsoft que deje ICE como cliente o nos perdera como usuarios de GitHub</strong></p>
+<p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong><br /><strong>Dile a Microsoft que deje ICE como cliente o nos perderá como usuarios de GitHub</strong></p>
 
 Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to *accelerate facial recognition and identification*." (Emphasis added.)
 
