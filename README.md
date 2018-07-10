@@ -267,6 +267,7 @@ Signed/Firmados,
 1.  Robert White [@r2453](https://github.com/r2453)
 1.  Rodrigo Bermúdez [@rodrigobdz](https://github.com/rodrigobdz)
 1.  Roshan [@roshbhatia](https://github.com/roshbhatia)
+1.  Ross Strachan [@rbstrachan](https://github.com/rbstrachan)
 1.  Ryan Harrison [@rmharrison](https://github.com/rmharrison)
 1.  Ryan P. C. McQuen [@ryanpcmcquen](https://github.com/ryanpcmcquen)
 1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
