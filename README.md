@@ -275,6 +275,7 @@ Signed/Firmados,
 1.  Sean Matheson [@ctrlplusb](https://github.com/ctrlplusb)
 1.  Shannon Drew [@sdrewdle](https://github.com/sdrewdle)
 1.  Sharath Ramkumar [@sharath](https://github.com/sharath)
+1.  Shauna Gordon-McKeon [@shaunagm](https://github.com/shaunagm)
 1.  Shawon Ashraf [@ShawonAshraf](https://github.com/ShawonAshraf)
 1.  Shealan Forshaw [@shealan](https://github.com/shealan)
 1.  Shengming Yuan [@ssysm](https://github.com/ssysm)
