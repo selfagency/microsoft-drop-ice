@@ -243,6 +243,7 @@ Signed/Firmados,
 1.  Nicolás Iglesias [@webpolis](https://github.com/webpolis)
 1.  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
 1.  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
+1.  Nick Hezaveh [@omidfi](https://github.com/omidfi)
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
 1.  Noah Hall [@nthall](https://github.com/nthall)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
