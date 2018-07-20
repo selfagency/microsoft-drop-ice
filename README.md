@@ -290,6 +290,7 @@ Signed/Firmados,
 1.  Sumit Sen [@sumit1sen](https://github.com/sumit1sen)
 1.  Sushant Rao [@sushant10](https://github.com/sushant10)
 1.  Tao He [@taohexxx](https://github.com/taohexxx)
+1.  TaoQuixote [@TaoQuixote](https://github.com/Tao-Quixote)
 1.  Tatiana Tylosky [@tati](https://github.com/tati)
 1.  TechdudeGames [@techdudegames](https://github.com/techdudegames)
 1.  Ted Dobyns [@tedajax](https://github.com/tedajax)
@@ -324,6 +325,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  TaoQuixote [@TaoQuixote](https://github.com/Tao-Quixote)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
