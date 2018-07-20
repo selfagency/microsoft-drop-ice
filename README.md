@@ -235,6 +235,7 @@ Signed/Firmados,
 1.  Mijndert Stuij [@mijndert](https://github.com/mijndert)
 1.  Mike Eng [@mrengy](https://github.com/mrengy)
 1.  Mikkel Malmberg [@mikker](https://github.com/mikker)
+1.  Misa Corn [@misacorn](https://github.com/misacorn)
 1.  Moses Wynn [@moseswynn](https://github.com/moseswynn)
 1.  Murilo Prestes [@maclovin](https://github.com/maclovin)
 1.  Nagesh Podilapu [@H4rryp0tt3r](https://github.com/H4rryp0tt3r)
