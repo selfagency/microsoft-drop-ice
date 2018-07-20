@@ -312,6 +312,7 @@ Signed/Firmados,
 1.  Viktor Kuroljov [@viktor-ku](https://github.com/viktor-ku)
 1.  Vinicius Rodrigues [@Suburbanno](https://github.com/Suburbanno)
 1.  vøid [@makmm](https://github.com/makmm)
+1.  wangbo [@13889202209](https://github.com/13889202209)
 1.  wencan [@wencan](https://github.com/wencan)
 1.  Wilfrid "Zeepington" G.[@zeepington](https://github.com/zeepington)
 1.  Will [@qubist](https://github.com/qubist)
@@ -324,6 +325,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  wangbo [@13889202209](https://github.com/13889202209)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
