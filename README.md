@@ -292,6 +292,7 @@ Signed/Firmados,
 1.  Sumit Sen [@sumit1sen](https://github.com/sumit1sen)
 1.  Sushant Rao [@sushant10](https://github.com/sushant10)
 1.  Tao He [@taohexxx](https://github.com/taohexxx)
+1.  TaoQuixote [@TaoQuixote](https://github.com/Tao-Quixote)
 1.  Tatiana Tylosky [@tati](https://github.com/tati)
 1.  TechdudeGames [@techdudegames](https://github.com/techdudegames)
 1.  Ted Dobyns [@tedajax](https://github.com/tedajax)
