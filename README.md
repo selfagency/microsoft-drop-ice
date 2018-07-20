@@ -89,6 +89,7 @@ Signed/Firmados,
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
 1.  Celti Burroughs [@Celti](https://github.com/Celti)
+1.  Charalampos Fanoulis [@cfanoulis](https://github.com/cfanoulis)
 1.  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 1.  Charles Kenney [@charliekenney23](https://github.com/charliekenney23)
 1.  Chris W. Burke [@chriswburke](https://github.com/chriswburke)
@@ -324,6 +325,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Charalampos Fanoulis [@cfanoulis](https://github.com/cfanoulis)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
