@@ -120,6 +120,7 @@ Signed/Firmados,
 1.  Darwin Correa [@dacopan](https://github.com/dacopan)
 1.  David Barts [@DavidBarts](https://github.com/DavidBarts)
 1.  David Seidenberg [@davidseid](https://github.com/davidseid)
+1.  David Steinberg [@david4096](https://github.com/david406)
 1.  David T. Nguyen [@DavidTNguyen](https://github.com/DavidTNguyen)
 1.  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
 1.  Dessalines [@Dessalines](https:///github.com/dessalines)
