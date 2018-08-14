@@ -234,6 +234,7 @@ Signed/Firmados,
 1.  Matt Barraza-Carl [@PerStirpes](https://github.com/PerStirpes)
 1.  Matt Glaser [@oppodeldoc](https://github.com/oppodeldoc)
 1.  Matthew Searles [mattxo](https://github.com/mattxo)
+1.  Matthew Swartz [@MatthewKush](https://github.com/MatthewKush)
 1.  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 1.  Michael Bishop [@miklb](https://github.com/miklb)
 1.  Miguel Monzón [@monzon13](https://github.com/monzon13)
