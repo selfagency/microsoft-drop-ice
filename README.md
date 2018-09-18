@@ -99,6 +99,7 @@ Signed/Firmados,
 1.  Chris Matzenbach [@cmatzenbach](https://github.com/cmatzenbach)
 1.  Chris Murphy [@mdhornet90](https://github.com/mdhornet90)
 1.  Christian Grimberg [@ChristianGrimberg](https://github.com/ChristianGrimberg)
+1.  Christian Oliff [@coliff](https://github.com/coliff/)
 1.  Christian Petersen [@fnky](https://github.com/fnky)
 1.  Connor Bär [@connor-baer](https://github.com/connor-baer)
 1.  coolreader18 [@coolreader18](https://github.com/coolreader18)
