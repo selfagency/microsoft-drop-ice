@@ -333,6 +333,7 @@ Signed/Firmados,
 1.  Wilfrid "Zeepington" G.[@zeepington](https://github.com/zeepington)
 1.  Will [@qubist](https://github.com/qubist)
 1.  Worms [@MarcoWorms](https://github.com/MarcoWorms)
+1.  xDrixxyz [@xDrixxyz](https://github.com/xDrixxyz)
 1.  Yanely Ramirez [@yxnely](https://github.com/yxnely)
 1.  Yaohan Chen [@hagabaka](https://github.com/hagabaka)
 1.  Yash Garg [@yashgarg1232](https://github.com/yashgarg1232)
