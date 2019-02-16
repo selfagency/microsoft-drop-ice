@@ -334,6 +334,7 @@ Signed/Firmados,
 1.  wencan [@wencan](https://github.com/wencan)
 1.  Wilfrid "Zeepington" G.[@zeepington](https://github.com/zeepington)
 1.  Will [@qubist](https://github.com/qubist)
+1.  Will H [@def14nt](https://github.com/def14nt)
 1.  Worms [@MarcoWorms](https://github.com/MarcoWorms)
 1.  xDrixxyz [@xDrixxyz](https://github.com/xDrixxyz)
 1.  Yanely Ramirez [@yxnely](https://github.com/yxnely)
