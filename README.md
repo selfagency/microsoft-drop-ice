@@ -144,6 +144,7 @@ Signed/Firmados,
 1.  Eugene Belinski [@ebelinski](https://github.com/ebelinski/)
 1.  Evan Carlson [@Pugduddly](https://github.com/Pugduddly) (enderX)
 1.  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
+1.  Faith Baker [@ouoluj](https://github.com/ouoluj)
 1.  Filipe Kiss [@filipekiss](https://github.com/filipekiss)
 1.  Firat Deniz [@fdeniz](https://github.com/fdeniz)
 1.  Flávio Caetano [@fjcaetano](https://github.com/fjcaetano)
