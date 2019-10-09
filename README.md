@@ -90,6 +90,7 @@ Signed/Firmados,
 1.  Bruno Jardon [@bjardon](https://github.com/bjardon)
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
+1.  Carlos Mondo [@carlosmondo](https://github.com/carlosmondo)
 1.  Celti Burroughs [@Celti](https://github.com/Celti)
 1.  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 1.  Charles Kenney [@charliekenney23](https://github.com/charliekenney23)
