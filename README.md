@@ -26,14 +26,10 @@ Con la adquisición de GitHub por parte de Microsoft, muchos en la comunidad de 
 Hacemos un llamamiento a Microsoft para que termine su relación con ICE y cualquier agencia federal involucrada en hacer cumplir las políticas crueles de esta administración, que está destruyendo familias y encarcelando a solicitantes de asilo, residentes indocumentados a largo plazo e incluso ciudadanos naturalizados bajo amenaza de deportación. O simplemente llevaremos nuestros proyectos a otro lado.
 
 ---
-
 | ADD YOUR NAME / AGREGA TU NOMBRE |
 | :------------------------------- |
-
-
 | **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation.
 **[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo al fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación.|
-
 ---
 
 Signed/Firmados,
