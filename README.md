@@ -260,6 +260,7 @@ Signed/Firmados,
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
 1.  Noah Hall [@nthall](https://github.com/nthall)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
+1.  oldosfan [@oldosfan](https://github.com/oldosfan)
 1.  Onciu Florin Cosmin [@bboydflo](https://github.com/bboydflo)
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
 1.  Pablo Salmones [@DevPGSV](https:///github.com/DevPGSV) (LibreLabUCM)
@@ -344,6 +345,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  oldosfan @oldosfan [gitlab](https://gitlab.com/oldosfan) [github not used for storing projects](https://github.com/oldosfan)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
