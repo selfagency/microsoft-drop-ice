@@ -3,10 +3,11 @@
 <p align="center"><strong>In The Press</strong><br /><a href="https://story.californiasunday.com/tech-revolt" target="_new">The California Sunday Magazine</a> · <a href="https://gizmodo.com/github-coders-to-microsoft-cut-ties-with-ice-or-well-t-1827032609" target="_new">Gizmodo</a> · <a href="https://www.cnet.com/news/tell-microsoft-to-drop-ice-as-a-client-or-lose-us-as-github-users-say-coders/" target="_new">cnet</a> · <a href="https://www.seattlepi.com/business/tech/article/Github-to-Mircosoft-Cut-ties-with-ICE-or-we-ll-13015420.php" target="_new">Seattle PI</a> · <a href="https://www.pcmag.com/commentary/362012/microsoft-ice-and-the-trouble-with-technology-being-neutr" target="_new">PC Magazine</a> · <a href="https://www.themarysue.com/github-coders-pressure-microsoft-to-end-ice-contract/" target="_new">The Mary Sue</a><br /><a href="https://bgr.com/2018/06/22/trump-children-policy-ice-criticism-amazon-microsoft/" target="_new">BGR</a> · <a href="https://fossbytes.com/github-coder-letter-warning-microsoft-ice-partnership/" target="_new">FOSSBytes</a> · <a href="https://www.theinquirer.net/inquirer/news/3034641/github-devs-warn-microsoft-get-that-contract-on-ice-or-lose-us" target="_new">The Inquirer</a> · <a href="https://streetsignals.com/microsoft-to-cut-ties-with-ice" target="_new">Street Signals</a> · <a href="https://www.business-standard.com/article/news-ani/github-coders-threaten-to-leave-microsoft-over-ice-contract-118062200404_1.html" target="_new">Business Standard</a> · <a href="https://www.outlookindia.com/newsscroll/github-coders-threaten-to-leave-microsoft-over-ice-contract/1335170" target="_new">Outlook</a><br /><em>Media Inquiries? <a href="mailto&#58;d&#97;%6Eie%&#54;&#67;&#64;s&#101;%6C&#102;&#37;2&#69;a&#103;%65n%63&#37;&#55;9">Email</a></em></p>
 
 ---
+
 <h1 align="center">Microsoft: Drop ICE! / Microsoft: Deja a ICE!</h1>
 <p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong><br /><strong>Dile a Microsoft que deje ICE como cliente o nos perderá como usuarios de GitHub</strong></p>
 
-Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to *accelerate facial recognition and identification*." (Emphasis added.)
+Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to _accelerate facial recognition and identification_." (Emphasis added.)
 
 As members of the open source community and free software movement who embrace values of freedom, liberty, openness, sharing, mutual aid, and general human kindness, we are horrified by and strongly object to the Trump administration's policies of detainment, denaturalization, deportation, and family separation as carried out by ICE.
 
@@ -16,7 +17,7 @@ We call on Microsoft to end its relationship with ICE and any federal agencies e
 
 ---
 
-A principios de este año, Microsoft [anunció orgullosamente](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) que estaba trabajando con Inmigración y Control de Aduanas (ICE) para "ofrecer servicios como identidad y acceso basados ​​en la nube" para "ayudar a los empleados a tomar decisiones mucho más informadas rápidamente" y "utilizar capacidades del aprendizaje profundo" para *acelerar el reconocimiento facial y la identificación*". (Énfasis añadido.)
+A principios de este año, Microsoft [anunció orgullosamente](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) que estaba trabajando con Inmigración y Control de Aduanas (ICE) para "ofrecer servicios como identidad y acceso basados ​​en la nube" para "ayudar a los empleados a tomar decisiones mucho más informadas rápidamente" y "utilizar capacidades del aprendizaje profundo" para _acelerar el reconocimiento facial y la identificación_". (Énfasis añadido.)
 
 Como miembros de la comunidad de código abierto y del movimiento de software libre que adoptan los valores de libertad, apertura, intercambio, ayuda mutua y bondad humana en general, nos horrorizamos y nos oponemos firmemente a las políticas de detención, desnaturalización, deportación de la administración Trump. y a la separación de las familias según lo llevado a cabo por ICE.
 
@@ -27,7 +28,9 @@ Hacemos un llamado a Microsoft para que termine su relación con ICE y cualquier
 ---
 
 | ADD YOUR NAME / AGREGA TU NOMBRE |
-| :--- |
+| :------------------------------- |
+
+
 | **[To add your name or recommend alterations to this text, please submit a PR!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Please insert your name into the list alphabetically to help save us time merging changes. If you are a significant contributor to a major open source project, feel free to add your affiliation.
 **[Para agregar tu nombre o recomendar modificaciones a este texto, envia un mensaje de Pull Request!](https://github.com/selfagency/microsoft-drop-ice/edit/master/README.md)** Por favor, inserta tu nombre en la lista alfabéticamente para ayudarnos a ahorrar tiempo al fusionar los cambios. Si contribuyes de manera significativa a un gran proyecto de código abierto, puedes agregar tu afiliación.|
 
@@ -46,6 +49,7 @@ Signed/Firmados,
 1.  Aakash Sigdel [@aakashsigdel](https://github.com/aakashsigdel)
 1.  Aaron Lichtman [@alichtman](https://github.com/alichtman)
 1.  Aaron Miller [@aaronm04](https://github.com/aaronm04)
+1.  Abdul Rauf [@armujahid](https://github.com/armujahid)
 1.  Abraham Toriz [@categulario](https://github.com/categulario)
 1.  Abram Stern [@aphid](https://github.com/aphid)
 1.  Absolutely Sweatie [@absolutelysweatie](https://github.com/absolutelysweatie) (React)
@@ -60,6 +64,7 @@ Signed/Firmados,
 1.  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 1.  Alexis Betancourt [@chonchah](https://github.com/chonchah)
 1.  Allen Hai [@coetry](https://github.com/coetry)
+1.  Alvin Crespo [@alvincrespo](https://github.com/alvincrespo)
 1.  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 1.  Amit Cohen [@AmitC1](https://github.com/AmitC1)
 1.  Andreas Basurto [@nitrohorse](https://github.com/nitrohorse)
@@ -90,8 +95,8 @@ Signed/Firmados,
 1.  Bruno Jardon [@bjardon](https://github.com/bjardon)
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
+1.  Carlos Mondo [@carlosmondo](https://github.com/carlosmondo)
 1.  Celti Burroughs [@Celti](https://github.com/Celti)
-
 1.  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 1.  Charles Kenney [@charliekenney23](https://github.com/charliekenney23)
 1.  Chris W. Burke [@chriswburke](https://github.com/chriswburke)
@@ -121,11 +126,13 @@ Signed/Firmados,
 1.  Danilo Guanabara [@danguafer](https://github.com/danguafer)
 1.  Darwin Correa [@dacopan](https://github.com/dacopan)
 1.  David Barts [@DavidBarts](https://github.com/DavidBarts)
+1.  David Khourshid [@davidkpiano](https:/github.com/davidkpiano)
 1.  David Seidenberg [@davidseid](https://github.com/davidseid)
 1.  David Steinberg [@david4096](https://github.com/david406)
 1.  David T. Nguyen [@DavidTNguyen](https://github.com/DavidTNguyen)
 1.  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
 1.  Dessalines [@Dessalines](https:///github.com/dessalines)
+1.  Devin Gaul [@daemondevin](https:///github.com/daemondevin)
 1.  Dian Fay [@dmfay](https://github.com/dmfay)
 1.  Diego Moreno [@TxusBlack](https://github.com/txusblack)
 1.  Diego Piedra [@diegojopiedra](https://github.com/diegojopiedra)
@@ -191,6 +198,7 @@ Signed/Firmados,
 1.  Joan Mira [@gazpachu](https://github.com/gazpachu)
 1.  Joey Yan[@qq729556278](https://github.com/qq729556278)
 1.  John Carlo Villar[@MarcelloCarlo](https://github.com/MarcelloCarlo)
+1.  John Gorenfeld[@johngoren](https://github.com/johngoren)
 1.  John Hann [@unscriptable](https://github.com/unscriptable)
 1.  johnypony3 [@johnypony3](https://github.com/johnypony3)
 1.  Jon Culver [@bahoo](http://github.com/bahoo)
@@ -222,10 +230,11 @@ Signed/Firmados,
 1.  lfuelling [@lfuelling](https://github.com/lfuelling)
 1.  Libby Horacek [@emhoracek](https://github.com/emhoracek)
 1.  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
-1.  Lizzy Higgins [@glitzeeule] (https://github.com/glitzeeule)
+1.  Lizzy Higgins [@glitzeeule](https://github.com/glitzeeule)
 1.  Lisa Ballard [@basilleaf](https://github.com/basilleaf)
 1.  Lowell Kissling [@lrkissling](https://github.com/lrkissling)
 1.  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
+1.  Luis Pineda [@LuisPinedaJR](https://github.com/LuisPinedaJR)
 1.  Maaz Khan [@maazkhan](https://github.com/maazkhan)
 1.  Malcolm Laing [@montezume](https://github.com/montezume)
 1.  Manuel Sánchez [@manasv](https://github.com/manasv)
@@ -241,6 +250,7 @@ Signed/Firmados,
 1.  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
 1.  Matt Barraza-Carl [@PerStirpes](https://github.com/PerStirpes)
 1.  Matt Glaser [@oppodeldoc](https://github.com/oppodeldoc)
+1.  Matthew Osterhaus [@osterhausm] (https://github.com/osterhausm)
 1.  Matthew Searles [mattxo](https://github.com/mattxo)
 1.  Matthew Swartz [@MatthewKush](https://github.com/MatthewKush)
 1.  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
@@ -251,6 +261,7 @@ Signed/Firmados,
 1.  Mikkel Malmberg [@mikker](https://github.com/mikker)
 1.  Misa Corn [@misacorn](https://github.com/misacorn)
 1.  Moses Wynn [@moseswynn](https://github.com/moseswynn)
+1.  MrRa1n [@MrRa1n](https://github.com/MrRa1n)
 1.  Murilo Prestes [@maclovin](https://github.com/maclovin)
 1.  Nagesh Podilapu [@H4rryp0tt3r](https://github.com/H4rryp0tt3r)
 1.  Nate Sutton [@nmsutton](https://github.com/nmsutton)
@@ -262,7 +273,9 @@ Signed/Firmados,
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
 1.  Noah Hall [@nthall](https://github.com/nthall)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
+1.  oldosfan [@oldosfan](https://github.com/oldosfan)
 1.  Onciu Florin Cosmin [@bboydflo](https://github.com/bboydflo)
+1.  Orlando Ceniccola [@and0rl] (https://github.com/and0rl)
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
 1.  Pablo Salmones [@DevPGSV](https:///github.com/DevPGSV) (LibreLabUCM)
 1.  Pascal Jufer [@paescuj](https://github.com/paescuj)
@@ -333,6 +346,7 @@ Signed/Firmados,
 1.  vøid [@makmm](https://github.com/makmm)
 1.  wangbo [@13889202209](https://github.com/13889202209)
 1.  wencan [@wencan](https://github.com/wencan)
+1.  Wiktoria Tomzik [@wiktoriatomzik](https://github.com/wiktoriatomzik)
 1.  Wilfrid "Zeepington" G.[@zeepington](https://github.com/zeepington)
 1.  Will [@qubist](https://github.com/qubist)
 1.  Will H [@def14nt](https://github.com/def14nt)
@@ -347,4 +361,4 @@ Signed/Firmados,
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
 
-> ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
+> **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
