@@ -60,6 +60,7 @@ Signed/Firmados,
 1.  Alexander Wallin [@alexanderwallin](https://github.com/alexanderwallin)
 1.  Alexis Betancourt [@chonchah](https://github.com/chonchah)
 1.  Allen Hai [@coetry](https://github.com/coetry)
+1.  Alvin Crespo [@alvincrespo](https://github.com/alvincrespo)
 1.  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 1.  Amit Cohen [@AmitC1](https://github.com/AmitC1)
 1.  Andreas Basurto [@nitrohorse](https://github.com/nitrohorse)
