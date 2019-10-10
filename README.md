@@ -122,6 +122,7 @@ Signed/Firmados,
 1.  Danilo Guanabara [@danguafer](https://github.com/danguafer)
 1.  Darwin Correa [@dacopan](https://github.com/dacopan)
 1.  David Barts [@DavidBarts](https://github.com/DavidBarts)
+1.  David Khourshid [@davidkpiano](https:/github.com/davidkpiano)
 1.  David Seidenberg [@davidseid](https://github.com/davidseid)
 1.  David Steinberg [@david4096](https://github.com/david406)
 1.  David T. Nguyen [@DavidTNguyen](https://github.com/DavidTNguyen)
