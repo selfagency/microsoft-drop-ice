@@ -125,6 +125,7 @@ Signed/Firmados,
 1.  David T. Nguyen [@DavidTNguyen](https://github.com/DavidTNguyen)
 1.  Denys Vitali [@DenysVitali](https://github.com/denysvitali)
 1.  Dessalines [@Dessalines](https:///github.com/dessalines)
+1.  Devin Gaul [@daemondevin](https:///github.com/daemondevin)
 1.  Dian Fay [@dmfay](https://github.com/dmfay)
 1.  Diego Moreno [@TxusBlack](https://github.com/txusblack)
 1.  Diego Piedra [@diegojopiedra](https://github.com/diegojopiedra)
@@ -249,6 +250,7 @@ Signed/Firmados,
 1.  Mikkel Malmberg [@mikker](https://github.com/mikker)
 1.  Misa Corn [@misacorn](https://github.com/misacorn)
 1.  Moses Wynn [@moseswynn](https://github.com/moseswynn)
+1.  MrRa1n [@MrRa1n](https://github.com/MrRa1n)
 1.  Murilo Prestes [@maclovin](https://github.com/maclovin)
 1.  Nagesh Podilapu [@H4rryp0tt3r](https://github.com/H4rryp0tt3r)
 1.  Nate Sutton [@nmsutton](https://github.com/nmsutton)
@@ -261,6 +263,7 @@ Signed/Firmados,
 1.  Noah Hall [@nthall](https://github.com/nthall)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
 1.  Onciu Florin Cosmin [@bboydflo](https://github.com/bboydflo)
+1.  Orlando Ceniccola [@and0rl] (https://github.com/and0rl)
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
 1.  Pablo Salmones [@DevPGSV](https:///github.com/DevPGSV) (LibreLabUCM)
 1.  Pascal Jufer [@paescuj](https://github.com/paescuj)
@@ -331,6 +334,7 @@ Signed/Firmados,
 1.  vøid [@makmm](https://github.com/makmm)
 1.  wangbo [@13889202209](https://github.com/13889202209)
 1.  wencan [@wencan](https://github.com/wencan)
+1.  Wiktoria Tomzik [@wiktoriatomzik](https://github.com/wiktoriatomzik)
 1.  Wilfrid "Zeepington" G.[@zeepington](https://github.com/zeepington)
 1.  Will [@qubist](https://github.com/qubist)
 1.  Will H [@def14nt](https://github.com/def14nt)
@@ -344,6 +348,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  MrRa1n [@MrRa1n](https://github.com/MrRa1n)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
