@@ -272,6 +272,7 @@ Signed/Firmados,
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
 1.  Noah Hall [@nthall](https://github.com/nthall)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
+1.  oldosfan [@oldosfan](https://github.com/oldosfan)
 1.  Onciu Florin Cosmin [@bboydflo](https://github.com/bboydflo)
 1.  Orlando Ceniccola [@and0rl] (https://github.com/and0rl)
 1.  Owen [@Dev-Osmium](https://github.com/Dev-Osmium)
