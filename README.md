@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Microsoft: Drop ICE! / Microsoft: Deja a ICE!</h1>
-<p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong><br /><strong>Dile a Microsoft que deje ICE como cliente o nos perderá como usuarios de GitHub</strong></p>
+<p align="center"><strong>Tell Microsoft to drop ICE as a client or lose us as GitHub users</strong><br /><strong>Dile a Microsoft que abandone a ICE como cliente o nos perderá como usuarios de GitHub</strong></p>
 
 Earlier this year Microsoft [proudly announced](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) that it was working with U.S. Immigration and Customs Enforcement (ICE) to "deliver such services as cloud-based identity and access" in order to "help employees make more informed decisions faster" and "utilize deep learning capabilities to _accelerate facial recognition and identification_." (Emphasis added.)
 
@@ -19,11 +19,11 @@ We call on Microsoft to end its relationship with ICE and any federal agencies e
 
 A principios de este año, Microsoft [anunció orgullosamente](https://blogs.msdn.microsoft.com/azuregov/2018/01/24/federal-agencies-continue-to-advance-capabilities-with-azure-government/) que estaba trabajando con Inmigración y Control de Aduanas (ICE) para "ofrecer servicios como identidad y acceso basados ​​en la nube" para "ayudar a los empleados a tomar decisiones mucho más informadas rápidamente" y "utilizar capacidades del aprendizaje profundo" para _acelerar el reconocimiento facial y la identificación_". (Énfasis añadido.)
 
-Como miembros de la comunidad de código abierto y del movimiento de software libre que adoptan los valores de libertad, apertura, intercambio, ayuda mutua y bondad humana en general, nos horrorizamos y nos oponemos firmemente a las políticas de detención, desnaturalización, deportación de la administración Trump. y a la separación de las familias según lo llevado a cabo por ICE.
+Como miembros de la comunidad de código abierto y del movimiento de software libre que adoptan los valores de libertad, mente abierta, intercambio de ideas, ayuda mutua y bondad humana en general, nos parece horrible y nos oponemos firmemente a las políticas de detención, desnaturalización, deportación de la administración de Trump. y a la separación de las familias según lo llevado a cabo por ICE.
 
-Con la adquisición de GitHub por parte de Microsoft, muchos en la comunidad de GitHub temían que la nueva propiedad de una empresa que alguna vez fue abiertamente hostil al código abierto deletreara el futuro de GitHub, y [muchas de esas personas](https://www.bleepingcomputer.com/news/technology/gitlab-sees-huge-traffic-spike-after-news-of-microsoft-buying-github/) decidieron [abandonar el sitio en](https://docs.gitlab.com/ee/user/project/import/github.html) lugar de confiarle a Microsoft su software. Aquellos de nosotros que permanecimos, porque estuvimos dispuestos a darle a Microsoft la oportunidad de convertirlos en administradores del movimiento de código abierto, no continuaremos haciéndolo si Microsoft continúa fomentando el pisoteo de los derechos humanos y civiles por esta administración y su aplicación de la ley.
+Con la adquisición de GitHub por parte de Microsoft, muchos en la comunidad de GitHub temían que la nueva propiedad de una empresa que alguna vez fue abiertamente hostil al código abierto marcara el futuro de GitHub, y [muchas de esas personas](https://www.bleepingcomputer.com/news/technology/gitlab-sees-huge-traffic-spike-after-news-of-microsoft-buying-github/) decidieron [abandonar el sitio en](https://docs.gitlab.com/ee/user/project/import/github.html) lugar de confiarle a Microsoft su software. Aquellos de nosotros que permanecimos, porque estuvimos dispuestos a darle a Microsoft la oportunidad de convertirlos en administradores del movimiento de código abierto, no continuaremos haciéndolo si Microsoft continúa fomentando el pisoteo de los derechos humanos y civiles por esta administración y su aplicación de la ley.
 
-Hacemos un llamado a Microsoft para que termine su relación con ICE y cualquier agencia federal involucrada en hacer cumplir las políticas crueles de esta administración, que está destruyendo familias y encarcelando a solicitantes de asilo, residentes indocumentados a largo plazo e incluso ciudadanos naturalizados bajo amenaza de deportación. O simplemente llevaremos nuestros proyectos a otro lado.
+Hacemos un llamamiento a Microsoft para que termine su relación con ICE y cualquier agencia federal involucrada en hacer cumplir las políticas crueles de esta administración, que está destruyendo familias y encarcelando a solicitantes de asilo, residentes indocumentados a largo plazo e incluso ciudadanos naturalizados bajo amenaza de deportación. O simplemente llevaremos nuestros proyectos a otro lado.
 
 ---
 
@@ -222,6 +222,7 @@ Signed/Firmados,
 1.  Kevin Lalka [@lalka-workco](https://github.com/lalka-workco)
 1.  Kevin Lopez [@shadefoundry](https://github.com/shadefoundry)
 1.  Kevin Milner [@codeslingerMalthius](https://github.com/codeslingerMalthius)
+1.  Konrad Iturbe [@konradit](https://github.com/konradit)
 1.  Konstantin K. [@kkostov](https://github.com/kkostov)
 1.  Kyle Gay [@rkyleg](https://github.com/rkyleg)
 1.  Kyle Holzinger [@kyleholzinger](https://github.com/kyleholzinger)
