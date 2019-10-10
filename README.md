@@ -239,6 +239,7 @@ Signed/Firmados,
 1.  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
 1.  Matt Barraza-Carl [@PerStirpes](https://github.com/PerStirpes)
 1.  Matt Glaser [@oppodeldoc](https://github.com/oppodeldoc)
+1.  Matthew Osterhaus [@osterhausm] (https://github.com/osterhausm)
 1.  Matthew Searles [mattxo](https://github.com/mattxo)
 1.  Matthew Swartz [@MatthewKush](https://github.com/MatthewKush)
 1.  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
@@ -344,6 +345,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Matthew Osterhaus [@osterhausm] (https://github.com/osterhausm)
 
 > ***Notice:*** *Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees.*
