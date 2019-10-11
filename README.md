@@ -186,6 +186,7 @@ Signed/Firmados,
 1.  jayvdb [@jayvdb](https://github.com/jayvdb)
 1.  Jean Manzo [@jmanzo](https://github.com/jmanzo)
 1.  Jekabs Milbrets [@jekabsmilbrets](https://github.com/jekabsmilbrets)
+1.  Jeremy King [@playerzero](https://github.com/playerzero)
 1.  Jeremy Low [@jeremylow](https://github.com/jeremylow)
 1.  Jeremy Muhia [@veganafro](https://github.com/veganafro)
 1.  Jerry Liang [@jeriscc](https://github.com/jeriscc)
