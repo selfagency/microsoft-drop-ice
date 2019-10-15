@@ -118,6 +118,7 @@ Signed/Firmados,
 1.  Daniel Corvalán [@corvalanlara](https://github.com/corvalanlara)
 1.  Daniël W. Crompton [@webhat](https://github.com/webhat)
 1.  Daniel Dyssegaard Kallick [@keevie](https://github.com/keevie)
+1.  Daniel Howe [@dhowe](https://github.com/dhowe)
 1.  Daniel Sieradski [@selfagency](https://github.com/selfagency)
 1.  Daniel Winterstein [@winterstein](https://github.com/winterstein)
 1.  Danilo Guanabara [@danguafer](https://github.com/danguafer)
