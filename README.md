@@ -232,6 +232,7 @@ Signed/Firmados,
 1.  Len Smith [@ignu](https://github.com/ignu)
 1.  lfuelling [@lfuelling](https://github.com/lfuelling)
 1.  Libby Horacek [@emhoracek](https://github.com/emhoracek)
+1.  Lincoln Sward [@swardlincoln](https://github.com/swardlincoln)
 1.  Lisa Lamontagne [@llamontagne](https://github.com/llamontagne)
 1.  Lizzy Higgins [@glitzeeule](https://github.com/glitzeeule)
 1.  Lisa Ballard [@basilleaf](https://github.com/basilleaf)
