@@ -185,6 +185,7 @@ Signed/Firmados,
 1.  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+1.  Javier Garcia [@javag97](https://github.com/javag97)
 1.  javier Reyes [@JavierReyes945](https://github.com/JavierReyes945)
 1.  jayvdb [@jayvdb](https://github.com/jayvdb)
 1.  Jean Manzo [@jmanzo](https://github.com/jmanzo)
@@ -364,6 +365,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Javier Garcia [@javag97](https://github.com/javag97)
 
 > **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
