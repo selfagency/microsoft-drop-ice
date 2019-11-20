@@ -73,6 +73,7 @@ Signed/Firmados,
 1.  Antonio Marin [@amarinab](https://github.com/amarinab)
 1.  Antonio Nesic [@mutantkeyboard](https://github.com/mutantkeyboard)
 1.  Antonopoulos Georgios [@AntGeorge](https://github.com/AntGeorge)
+1.  Angad Gupta [@angad777](https://github.com/angad777)
 1.  Apostolos Christodoulou [@tol-is](https://github.com/tol-is)
 1.  Arthur Guiot [@arguiot](https://github.com/arguiot)
 1.  ArashMidos [@arshiamidos](https://github.com/Arshiamidos)
