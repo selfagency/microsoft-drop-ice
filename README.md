@@ -166,6 +166,7 @@ Signed/Firmados,
 1.  Haythem Tlili [@Haythem](https://github.com/Haythem)
 1.  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
+1.  Houdry Pierre-Marie [@pmhoudry](https://github.com/pmhoudry/)
 1.  Hugo Dutra [@hugodutra](https://github.com/hugodutra)
 1.  Ian Ardouin-Fumat [@iaaaan](https://github.com/iaaaan)
 1.  Igor Buyanov [@artifex404](https://github.com/artifex404)
