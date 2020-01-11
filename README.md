@@ -206,6 +206,7 @@ Signed/Firmados,
 1.  Jon Kuperman [@jkup](https://github.com/jkup)
 1.  Jonah Meijers [@theonejonahgold](https://github.com/theonejonahgold)
 1.  Jordan Danford [@jdanford](https://github.com/jdanford)
+1.  Jordan Harband [@ljharb](https://github.com/ljharb)
 1.  Jordan Pagels [@jpgls](https://github.com/jpgls)
 1.  Jordy Cuan [@jordycuan](https://github.com/jordycuan)
 1.  Joshua Achorn [@superp00t](https://github.com/superp00t)
