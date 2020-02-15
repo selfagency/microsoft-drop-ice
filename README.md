@@ -173,6 +173,7 @@ Signed/Firmados,
 1.  Isaiah Joshua M. Samonte [@xemasiv](https://github.com/xemasiv)
 1.  Jack Keating [@jkeat](https://github.com/jkeat)
 1.  Jacob Beard [@jbeard4](https://github.com/jbeard4)
+1.  Jacob Logas [@logasja](https://github.com/logasja)
 1.  Jad Sarout [@xananax](https://github.com/Xananax/)
 1.  Jafar Rezaei [@sayjeyhi](https://github.com/sayjeyhi/)
 1.  James Gallagher [@jamesgallagher432](https://github.com/jamesgallagher432)
