@@ -181,6 +181,7 @@ Signed/Firmados,
 1.  Jan Peer [@JPeer264](https://github.com/JPeer264)
 1.  Jan Riemer [@janriemer](https://github.com/janriemer)
 1.  Jane Miceli [@janemiceli](https://github.com/janemiceli)
+1.  João Victor dos Santos [@thejoaov](https://github.com/thejoaov)
 1.  Jasmine Hennessy [@jennessy](https://github.com/jennessy)
 1.  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
@@ -364,6 +365,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1. João Victor dos Santos [@thejoaov](https://github.com/thejoaov)
 
 > **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
