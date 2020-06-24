@@ -164,6 +164,7 @@ Signed/Firmados,
 1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
 1.  Harry Zhang [@resouer](https://github.com/resouer) (Kubernetes, KataContainers)
 1.  Haythem Tlili [@Haythem](https://github.com/Haythem)
+1.  Helen Gezahegn [@HelenGezahegn](https://github.com/HelenGezahegn)
 1.  Henrik Kjerringvåg [@hkjels](https://github.com/hkjels)
 1.  Herman J. Radtke III [@hjr3](https://github.com/hjr3)
 1.  Hugo Dutra [@hugodutra](https://github.com/hugodutra)
