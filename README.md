@@ -66,6 +66,7 @@ Signed/Firmados,
 1.  Andreas Basurto [@nitrohorse](https://github.com/nitrohorse)
 1.  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
 1.  Andrew Pomeroy [@andrewpomeroy](https://github.com/andrewpomeroy)
+1.  Andrew R. Rooney [@arrooney](https://github.com/arrooney) (AlbertaSat)
 1.  Andrew Wasson [@awasson](https://github.com/awasson)
 1.  Andy Galasso [@agalasso](https://github.com/agalasso)
 1.  Anna Henningsen [@addaleax](https://github.com/addaleax)
