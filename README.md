@@ -361,6 +361,7 @@ Signed/Firmados,
 1.  Yoann Magli [@ysris](https://github.com/ysris)
 1.  Yusuff Adeyemo [@yusadolat](https://github.com/yusadolat)
 1.  Zac Anger [@zacanger](https://github.com/zacanger)
+1.  Zach Jones [@zachtjones](https://github.com/zachtjones)
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
