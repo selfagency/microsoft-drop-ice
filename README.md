@@ -336,6 +336,7 @@ Signed/Firmados,
 1.  Tien Pham [@tienpham94](https://github.com/tienpham94)
 1.  Titus Wormer [@wooorm](https://github.com/wooorm)
 1.  Tiago Dias [@skullwritter](https://github.com/skullwritter)
+1.  Tiktaalik Dreaming [@tiktaalikdreaming](https://github.com/TiktaalikDreaming)
 1.  Tobi Schäfer [@p3k](https://github.com/p3k)
 1.  Tom Houlé [@tomhoule](https://github.com/tomhoule)
 1.  Tom Lazar [@tomlazar](https://github.com/tomlazar)
