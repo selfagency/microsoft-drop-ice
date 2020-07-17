@@ -68,6 +68,7 @@ Signed/Firmados,
 1.  Andrew Pomeroy [@andrewpomeroy](https://github.com/andrewpomeroy)
 1.  Andrew Wasson [@awasson](https://github.com/awasson)
 1.  Andy Galasso [@agalasso](https://github.com/agalasso)
+1.  Angel Hernandez [@ahsec](https://github.com/ahsec)
 1.  Anna Henningsen [@addaleax](https://github.com/addaleax)
 1.  Anthony Maki [@4cm4k1](https://github.com/4cm4k1)
 1.  Antonio Marin [@amarinab](https://github.com/amarinab)
