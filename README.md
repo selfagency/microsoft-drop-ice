@@ -281,6 +281,7 @@ Signed/Firmados,
 1.  Nate Sutton [@nmsutton](https://github.com/nmsutton)
 1.  Naveen Kumar Sangi [@nkprince007](https://github.com/nkprince007)
 1.  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
+1.  Nicholas Sorensen [@nsorense4](https://github.com/nsorense4)
 1.  Nick Hezaveh [@omidfi](https://github.com/omidfi)
 1.  Nicolás Iglesias [@webpolis](https://github.com/webpolis)
 1.  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
