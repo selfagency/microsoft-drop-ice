@@ -200,6 +200,7 @@ Signed/Firmados,
 1.  Jiří Špác [@capaj](https://github.com/capaj)
 1.  Joan Mira [@gazpachu](https://github.com/gazpachu)
 1.  Joey Yan[@qq729556278](https://github.com/qq729556278)
+1.  Johana Strand McCutchen[@strand](https://github.com/strand)
 1.  John Carlo Villar[@MarcelloCarlo](https://github.com/MarcelloCarlo)
 1.  John Gorenfeld[@johngoren](https://github.com/johngoren)
 1.  John Hann [@unscriptable](https://github.com/unscriptable)
