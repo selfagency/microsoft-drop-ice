@@ -281,6 +281,7 @@ Signed/Firmados,
 1.  MrRa1n [@MrRa1n](https://github.com/MrRa1n)
 1.  Murilo Prestes [@maclovin](https://github.com/maclovin)
 1.  Nagesh Podilapu [@H4rryp0tt3r](https://github.com/H4rryp0tt3r)
+1.  Nana Kwame Sakyi Owusu [@sowusu](https://github.com/sowusu)
 1.  Nate Sutton [@nmsutton](https://github.com/nmsutton)
 1.  Naveen Kumar Sangi [@nkprince007](https://github.com/nkprince007)
 1.  Nicholas Sahler [@nicksahler](https://github.com/nicksahler)
