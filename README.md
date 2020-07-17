@@ -187,6 +187,7 @@ Signed/Firmados,
 1.  Jason Palmer [@palmerj3](https://github.com/palmerj3)
 1.  Jason Seminara [@jasonseminara](https://github.com/jasonseminara)
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
+1.  Javier Garcia [@javag97](https://github.com/javag97)
 1.  javier Reyes [@JavierReyes945](https://github.com/JavierReyes945)
 1.  jayvdb [@jayvdb](https://github.com/jayvdb)
 1.  Jean Manzo [@jmanzo](https://github.com/jmanzo)
