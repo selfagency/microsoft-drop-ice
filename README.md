@@ -343,6 +343,7 @@ Signed/Firmados,
 1.  Ted Dobyns [@tedajax](https://github.com/tedajax)
 1.  Tevye Cowan [@tevyefegeleh](https://github.com/tevyefegeleh)
 1.  Thijs van der Vossen [@fingertips](https://github.com/Fingertips)
+1.  Thomas Ganley [@tganley](https://github.com/tganley)
 1.  Tien Pham [@tienpham94](https://github.com/tienpham94)
 1.  Titus Wormer [@wooorm](https://github.com/wooorm)
 1.  Tiago Dias [@skullwritter](https://github.com/skullwritter)
