@@ -52,6 +52,7 @@ Signed/Firmados,
 1.  Adam Yi [@adamyi](https://github.com/adamyi)
 1.  Adrien Antoine [@adriantoine](https://github.com/adriantoine)
 1.  Aiden Holmes [@aidenholmes](https://github.com/aidenholmes)
+1.  ajo8571[@ajo8571] (https://github.com/aj8571)
 1.  Akil Harris [@akilism](https://github.com/akilism)
 1.  Akshat Sinha [@tribalmolecule](https://github.com/tribalmolecule)
 1.  Alex [@alexrdz](https://github.com/alexrdz)
@@ -126,6 +127,7 @@ Signed/Firmados,
 1.  Danilo Guanabara [@danguafer](https://github.com/danguafer)
 1.  Darwin Correa [@dacopan](https://github.com/dacopan)
 1.  David Barts [@DavidBarts](https://github.com/DavidBarts)
+1.  David Chopin [@ChopinDavid](https://github.com/ChopinDavid)
 1.  David Khourshid [@davidkpiano](https:/github.com/davidkpiano)
 1.  David Seidenberg [@davidseid](https://github.com/davidseid)
 1.  David Steinberg [@david4096](https://github.com/david406)
@@ -381,6 +383,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  David Chopin [@ChopinDavid](https://github.com/ChopinDavid)
 
 > **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
