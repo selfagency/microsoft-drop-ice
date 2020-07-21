@@ -223,6 +223,7 @@ Signed/Firmados,
 1.  Jordan Pagels [@jpgls](https://github.com/jpgls)
 1.  Jordy Cuan [@jordycuan](https://github.com/jordycuan)
 1.  Joshua Achorn [@superp00t](https://github.com/superp00t)
+1.  Josh Smith [@joshua-s](https://github.com/joshua-s)
 1.  Josh Waller [@mdxprograms](https://github.com/mdxprograms)
 1.  Joshua Cook [@joshuacook](https://github.com/joshuacook)
 1.  Juanjo Salvador [@JuanjoSalvador](https://github.com/JuanjoSalvador)
