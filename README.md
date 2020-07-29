@@ -239,6 +239,7 @@ Signed/Firmados,
 1.  Luke Cashion-Lozell [@lukeacl](https://github.com/lukeacl)
 1.  Luis Pineda [@LuisPinedaJR](https://github.com/LuisPinedaJR)
 1.  Maaz Khan [@maazkhan](https://github.com/maazkhan)
+1.  Maddie Ford [@maddiemford](https://github.com/maddiemford)
 1.  Malcolm Laing [@montezume](https://github.com/montezume)
 1.  Manuel Sánchez [@manasv](https://github.com/manasv)
 1.  Marc Bria [@marcbria](https://github.com/marcbria)
@@ -364,6 +365,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  maddiemford [@maddiemford](https://github.com/maddiemford)
 
 > **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
