@@ -232,6 +232,7 @@ Signed/Firmados,
 1.  J Kelsey-De France [@onoffleftright](https://github.com/onoffleftright)
 1.  Karina Romero [@KarinaRomero](https://github.com/KarinaRomero)
 1.  Kathleen Burkhardt [@kburk1997](https://github.com/kburk1997) (Rensselaer Center for Open Source, YACS)
+1.  KD Puvvadi [@kdpuvvadi](https://github.com/kdpuvvadi)
 1.  Kelly Lawrence [@lemonslicenebula](https://github.com/lemonslicenebula)
 1.  Ken Godoy [@kgodoy](https://github.com/kgodoy)
 1.  Kevin Corado [@KCorado](https://github.com/KCorado)
@@ -391,6 +392,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  KD Puvvadi [@kdpuvvadi](https://github.com/kdpuvvadi)
 
 > **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
