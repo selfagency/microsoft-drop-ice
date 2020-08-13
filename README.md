@@ -64,6 +64,7 @@ Signed/Firmados,
 1.  Alvin Crespo [@alvincrespo](https://github.com/alvincrespo)
 1.  Amal Karunarathna [@r3b311i0n](https://github.com/r3b311i0n)
 1.  Amit Cohen [@AmitC1](https://github.com/AmitC1)
+1.  André Varandas [@AndreVarandas](https://github.com/AndreVarandas)
 1.  Andreas Basurto [@nitrohorse](https://github.com/nitrohorse)
 1.  Andrew McLagan [@andrewmclagan](https://github.com/andrewmclagan)
 1.  Andrew Pomeroy [@andrewpomeroy](https://github.com/andrewpomeroy)
