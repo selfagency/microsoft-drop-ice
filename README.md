@@ -316,6 +316,7 @@ Signed/Firmados,
 1.  Raymond Cano [@rayraycano](https://github.com/rayraycano)
 1.  Rein Henrichs [@reinh](https://github.com/reinh)
 1.  Remus Buzatu [@rbuzatu90](https://github.com/rbuzatu90/)
+1.  Reshadf [@reshadf](https://github.com/reshadf)
 1.  Rex Low [@rexlow](https://github.com/rexlow)
 1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
 1.  Robert James Gabriel [@RobertJGabriel](https://github.com/RobertJGabriel) (OpenDyslexic, PWA Awards)
@@ -393,6 +394,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  reshadf [@reshadf](https://github.com/reshadf)
 
 > **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
