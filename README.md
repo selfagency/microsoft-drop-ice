@@ -317,6 +317,7 @@ Signed/Firmados,
 1.  Raymond Cano [@rayraycano](https://github.com/rayraycano)
 1.  Rein Henrichs [@reinh](https://github.com/reinh)
 1.  Remus Buzatu [@rbuzatu90](https://github.com/rbuzatu90/)
+1.  Reshadf [@reshadf](https://github.com/reshadf)
 1.  Rex Low [@rexlow](https://github.com/rexlow)
 1.  Rishi Javia [@rishijavia](https://github.com/rishijavia)
 1.  Robert James Gabriel [@RobertJGabriel](https://github.com/RobertJGabriel) (OpenDyslexic, PWA Awards)
