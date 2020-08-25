@@ -168,6 +168,7 @@ Signed/Firmados,
 1.  Gido [@gidoBOSSftw5731](https://github.com/gidobossftw5731)
 1.  Good-Loop [@good-loop](https://github.com/good-loop)
 1.  Guido [@schugDev](https://github.com/schugDev)
+1.  Guillermo Cava [@gcavanunez](https://github.com/gcavanunez)
 1.  Gus Caplan [@devsnek](https://github.com/devsnek) (Node.js)
 1.  gusfravo [@gusfravo](https://github.com/gusfravo)
 1.  Hanjunrong [@Hanjunrong](https://github.com/Hanjunrong)
