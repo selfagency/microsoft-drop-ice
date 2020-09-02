@@ -272,6 +272,7 @@ Signed/Firmados,
 1.  Mark Busenitz [@mucbuc](https://github.com/mucbuc)
 1.  Mark A. Lane [@FooCrypt](https://github.com/foocrypt)
 1.  Mark Rabey [@MarkRabey](https://github.com/MarkRabey)
+1.  Martin Kühl [@mkhl](https://github.com/mkhl)
 1.  Martin Šťovíček [@stovmascript](https://github.com/stovmascript)
 1.  Matt Barraza-Carl [@PerStirpes](https://github.com/PerStirpes)
 1.  Matt Glaser [@oppodeldoc](https://github.com/oppodeldoc)
