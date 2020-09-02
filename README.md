@@ -98,6 +98,7 @@ Signed/Firmados,
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
 1.  Carlos Mondo [@carlosmondo](https://github.com/carlosmondo)
 1.  Celti Burroughs [@Celti](https://github.com/Celti)
+1.  Caleb Wells [@calebrwells](https://github.com/calebrwells)
 1.  Charles Josephs [@darkmyst](https://github.com/darkmyst)
 1.  Charles Kenney [@charliekenney23](https://github.com/charliekenney23)
 1.  Chris W. Burke [@chriswburke](https://github.com/chriswburke)
