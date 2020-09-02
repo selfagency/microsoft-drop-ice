@@ -299,6 +299,7 @@ Signed/Firmados,
 1.  Nicolai Süper [@nicolaisueper](https://github.com/nicolaisueper)
 1.  Nitish Kumar [@mintunitish](https://github.com/mintunitish)
 1.  Noah Hall [@nthall](https://github.com/nthall)
+1.  Novall Khan [@novall](https://github.com/novall)
 1.  Olayemi H. Ibrahim [@yobroyem0](https://github.com/yobroyem0)
 1.  oldosfan [@oldosfan](https://github.com/oldosfan)
 1.  Onciu Florin Cosmin [@bboydflo](https://github.com/bboydflo)
