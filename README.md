@@ -95,6 +95,7 @@ Signed/Firmados,
 1.  Brett Jones [@brettjonesdev](https://github.com/brettjonesdev)
 1.  Brian Yang [@brianyang](https://github.com/brianyang)
 1.  Bruno Jardon [@bjardon](https://github.com/bjardon)
+1.  Caleb Wells [@calebrwells](https://github.com/calebrwells)
 1.  Capi Etheriel [@barraponto](https://github.com/barraponto)
 1.  Carlos Colón [@cppmx](https://github.com/cppmx)
 1.  Carlos Mondo [@carlosmondo](https://github.com/carlosmondo)
