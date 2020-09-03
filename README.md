@@ -319,6 +319,7 @@ Signed/Firmados,
 1.  Peter Bittner [@bittner](https://github.com/bittner)
 1.  Petter Karlsrud [@ptrkrlsrd](https://github.com/ptrkrlsrd)
 1.  Philip Beadle [@philipbeadle](https://github.com/philipbeadle)
+1.  Philip Nelson [@philipmnelson](https://github.com/philipmnelson)
 1.  Randolf Richardson [@randolf](https://github.com/randolf)
 1.  Raymond Cano [@rayraycano](https://github.com/rayraycano)
 1.  Rein Henrichs [@reinh](https://github.com/reinh)
