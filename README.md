@@ -202,6 +202,7 @@ Signed/Firmados,
 1.  Jasper Haggenburg [@jpunt](https://github.com/Jpunt)
 1.  Javier Garcia [@javag97](https://github.com/javag97)
 1.  javier Reyes [@JavierReyes945](https://github.com/JavierReyes945)
+1.  Javier Soto [@JaviSoto](https://github.com/JaviSoto)
 1.  jayvdb [@jayvdb](https://github.com/jayvdb)
 1.  Jean Manzo [@jmanzo](https://github.com/jmanzo)
 1.  Jekabs Milbrets [@jekabsmilbrets](https://github.com/jekabsmilbrets)
