@@ -340,6 +340,7 @@ Signed/Firmados,
 1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
 1.  Sam Lloyd [@binchicken](https://github.com/binchicken)
 1.  Sarah Majors [@sfmajors373](https://github.com/sfmajors373)
+1.  Sarah Mullins [@rynogg](https://github.com/rynogg)
 1.  Saurav Tomar [@sauravtom](https://github.com/sauravtom)
 1.  Scott Chu [@howtobescott](https://github.com/howtobescott)
 1.  Sean Dean [@anthropos9](https://github.com/anthropos9)
