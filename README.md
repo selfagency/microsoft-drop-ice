@@ -82,6 +82,7 @@ Signed/Firmados,
 1.  Arthur Guiot [@arguiot](https://github.com/arguiot)
 1.  ArashMidos [@arshiamidos](https://github.com/Arshiamidos)
 1.  Arno Fleming [@arnoFleming](https://github.com/arnoFleming)
+1.  Audrey Pascal [@padlocks](https://github.com/padlocks)
 1.  Aung Naing Oo [@o92](https://github.com/o92)
 1.  Axel Stoll [@saufbernd](https://github.com/saufbernd)
 1.  Ban Min Kyoz [@banminkyoz](https://github.com/banminkyoz)
