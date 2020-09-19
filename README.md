@@ -336,6 +336,7 @@ Signed/Firmados,
 1.  Ruth Miller [@mcplanner](https://github.com/mcplanner)
 1.  Ross Strachan [@rbstrachan](https://github.com/rbstrachan)
 1.  Ryan Harrison [@rmharrison](https://github.com/rmharrison)
+1.  Ryan Hendrickson [@rynhndrcksn](https://github.com/rynhndrcksn)
 1.  Ryan Lewis [@archae0pteryx](https://github.com/archae0pteryx)
 1.  Ryan P. C. McQuen [@ryanpcmcquen](https://github.com/ryanpcmcquen)
 1.  Sam Jackson [@samfromcadott](https://github.com/samfromcadott)
