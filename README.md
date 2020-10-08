@@ -285,6 +285,7 @@ Signed/Firmados,
 1.  Matthew Searles [mattxo](https://github.com/mattxo)
 1.  Matthew Swartz [@MatthewKush](https://github.com/MatthewKush)
 1.  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
+1.  Maxime Carlier [@Maxime_48](https://github.com/Maxime48)
 1.  Michael Bishop [@miklb](https://github.com/miklb)
 1.  Miguel Monzón [@monzon13](https://github.com/monzon13)
 1.  Mijndert Stuij [@mijndert](https://github.com/mijndert)
@@ -406,6 +407,5 @@ Signed/Firmados,
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
-1.  Maxime Carlier [@Maxime_48](https://github.com/Maxime48)
 
 > **_Notice:_** _Although various projects and organizations may be listed next to signees, these signatures do not necessarily reflect the views of anyone except the signees._
