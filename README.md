@@ -406,6 +406,7 @@ Signed/Firmados,
 1.  Zach Holman [@holman](https://github.com/holman) (GitHub employee #9)
 1.  Zach Jones [@zachtjones](https://github.com/zachtjones)
 1.  Zachary Manesiotis [@manesioz](http://github.com/manesioz)
+1.  Zalusan "Jason" [@zalusan](http://github.com/zalusan)
 1.  Zeerak Waseem [@zeerakw](https://github.com/zeerakw)
 1.  zer0crash [@CyberSpace7](https://github.com/CyberSpace7)
 1.  zomars [@zomars](https://github.com/zomars)
