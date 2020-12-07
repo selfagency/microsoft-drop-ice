@@ -159,6 +159,7 @@ Signed/Firmados,
 1.  Esteban Rocha [@Esteban-Rocha](https://github.com/Esteban-Rocha)
 1.  Eugene Belinski [@ebelinski](https://github.com/ebelinski/)
 1.  Evan Carlson [@Pugduddly](https://github.com/Pugduddly) (enderX)
+1.  Evan Hess [@enh-code](https://github.com/enh-code)
 1.  Fabio Fernandes [@fabiofl](https://github.com/fabiofl)
 1.  Fabio Valentino [@lagofvc](https://github.com/lagofvc)
 1.  Faith Baker [@ouoluj](https://github.com/ouoluj)
