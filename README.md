@@ -111,6 +111,7 @@ Signed/Firmados,
 1.  Christian Oliff [@coliff](https://github.com/coliff/)
 1.  Christian Petersen [@fnky](https://github.com/fnky)
 1.  Cleyson Lima [@cleysonph](https://github.com/cleysonph)
+1.  Cole Ricketts [@Ded-Ex](https://github.com/Ded-Ex)
 1.  Connor Bär [@connor-baer](https://github.com/connor-baer)
 1.  coolreader18 [@coolreader18](https://github.com/coolreader18)
 1.  Cristian Alanis [@snake404](https://github.com/snake404)
