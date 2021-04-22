@@ -291,6 +291,7 @@ Signed/Firmados,
 1.  Max Rittmüller [@maxrimue](https://github.com/maxrimue)
 1.  Maxime Carlier [@Maxime_48](https://github.com/Maxime48)
 1.  Melanie Kat [@zicklepop](https://github.com/zicklepop)
+1.  Mia Nandy [@thatgeekyweeb](https://github.com/thatgeekyweeb)
 1.  Michael Bishop [@miklb](https://github.com/miklb)
 1.  Miguel Monzón [@monzon13](https://github.com/monzon13)
 1.  Mijndert Stuij [@mijndert](https://github.com/mijndert)
