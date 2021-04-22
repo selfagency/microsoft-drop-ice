@@ -220,6 +220,7 @@ Signed/Firmados,
 1.  Jibran Shaikh [@js-d-coder](https://github.com/js-d-coder)
 1.  Jim Kang [@deathmtn](https://github.com/jimkang)
 1.  Jiří Špác [@capaj](https://github.com/capaj)
+1.  Jo Liss [@joliss](https://github.com/joliss)
 1.  Joan Mira [@gazpachu](https://github.com/gazpachu)
 1.  Joey Yan[@qq729556278](https://github.com/qq729556278)
 1.  Johana Strand McCutchen[@strand](https://github.com/strand)
